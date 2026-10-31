@@ -1,0 +1,5477 @@
+{
+ "units": [
+  {
+   "id": "A1-u2",
+   "file": "A1 Ünite 2-WPS Office.docx",
+   "level": "A1",
+   "number": 2,
+   "title": "Ünite 2",
+   "subtitle": "A1",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Aç",
+       "uz": "Och"
+      },
+      {
+       "tr": "Açık",
+       "uz": "Ochiq"
+      },
+      {
+       "tr": "Adres",
+       "uz": "Manzil"
+      },
+      {
+       "tr": "Akşam",
+       "uz": "Oqshom"
+      },
+      {
+       "tr": "Alışveriş",
+       "uz": "Harid"
+      },
+      {
+       "tr": "Alışveriş merkezi",
+       "uz": "Savdo markazi"
+      },
+      {
+       "tr": "Alt",
+       "uz": "Past, quyi"
+      },
+      {
+       "tr": "Anahtar",
+       "uz": "Kalit"
+      },
+      {
+       "tr": "Artı",
+       "uz": "Plus"
+      },
+      {
+       "tr": "Ay",
+       "uz": "Oy"
+      },
+      {
+       "tr": "Banka",
+       "uz": "Bank"
+      },
+      {
+       "tr": "Başarılı",
+       "uz": "Muvaffaqıyatli, omadli"
+      },
+      {
+       "tr": "Bekâr",
+       "uz": "Böydoq, oilasiz"
+      },
+      {
+       "tr": "Bina",
+       "uz": "Bino"
+      },
+      {
+       "tr": "Birçok",
+       "uz": "Köp"
+      },
+      {
+       "tr": "Boş",
+       "uz": "Bösh"
+      },
+      {
+       "tr": "Bölü",
+       "uz": "Böluv"
+      },
+      {
+       "tr": "Buğün",
+       "uz": "Bugun"
+      },
+      {
+       "tr": "Burada",
+       "uz": "Bu yerda"
+      },
+      {
+       "tr": "Bütün",
+       "uz": "Butun, hamma"
+      },
+      {
+       "tr": "Cesur",
+       "uz": "Jasur"
+      },
+      {
+       "tr": "Ciddi",
+       "uz": "Jiddiy"
+      },
+      {
+       "tr": "Çalışkan",
+       "uz": "Aqlli, mehnatkash"
+      },
+      {
+       "tr": "Çarpı",
+       "uz": "Köpaytiruv"
+      },
+      {
+       "tr": "Geniş",
+       "uz": "Keng"
+      },
+      {
+       "tr": "Güçlü",
+       "uz": "Kuchli"
+      },
+      {
+       "tr": "Güçsüz",
+       "uz": "Kuchsiz"
+      },
+      {
+       "tr": "Gün",
+       "uz": "Kun"
+      },
+      {
+       "tr": "Gündüz",
+       "uz": "Kunduz"
+      },
+      {
+       "tr": "Hafta sonu",
+       "uz": "Dam olish kunlari"
+      },
+      {
+       "tr": "Hasta",
+       "uz": "Kasal"
+      },
+      {
+       "tr": "Hastane",
+       "uz": "Shifoxona"
+      },
+      {
+       "tr": "Her",
+       "uz": "Har"
+      },
+      {
+       "tr": "Her zaman",
+       "uz": "Har doim"
+      },
+      {
+       "tr": "Hızlı",
+       "uz": "Tez"
+      },
+      {
+       "tr": "İçecek",
+       "uz": "İchimlik"
+      },
+      {
+       "tr": "İstasyon",
+       "uz": "Stansiya"
+      },
+      {
+       "tr": "İyi",
+       "uz": "Yaxshi"
+      },
+      {
+       "tr": "Kaç",
+       "uz": "Qancha"
+      },
+      {
+       "tr": "Kaçıncı",
+       "uz": "Nechanchi"
+      },
+      {
+       "tr": "Kantin",
+       "uz": "Oshxona"
+      },
+      {
+       "tr": "Kapalı",
+       "uz": "Yopiq"
+      },
+      {
+       "tr": "Kasap",
+       "uz": "Qassob"
+      },
+      {
+       "tr": "Kasiyer",
+       "uz": "Kassir"
+      },
+      {
+       "tr": "Kat",
+       "uz": "Qavat"
+      },
+      {
+       "tr": "Kırmızı",
+       "uz": "Qizil"
+      },
+      {
+       "tr": "Kıskanç",
+       "uz": "Rashkchi"
+      },
+      {
+       "tr": "Kibar",
+       "uz": "Oliyjanob"
+      },
+      {
+       "tr": "Kilo",
+       "uz": "Kilogram"
+      },
+      {
+       "tr": "Kitaplık",
+       "uz": "Kitobjavon"
+      },
+      {
+       "tr": "Kolay",
+       "uz": "Oson"
+      },
+      {
+       "tr": "Projektör",
+       "uz": "Ptoyektor"
+      },
+      {
+       "tr": "Psikolog",
+       "uz": "Psixolog"
+      },
+      {
+       "tr": "Resepsionist",
+       "uz": "Qabulxonachi"
+      },
+      {
+       "tr": "Sabah",
+       "uz": "Ertalab"
+      },
+      {
+       "tr": "Sakin",
+       "uz": "Sokin, jim"
+      },
+      {
+       "tr": "Sayı",
+       "uz": "Son"
+      },
+      {
+       "tr": "Sehpa",
+       "uz": "Jurnal stoli"
+      },
+      {
+       "tr": "Sekretar",
+       "uz": "Kotiba"
+      },
+      {
+       "tr": "Sempt",
+       "uz": "Kvartal, mikrorayon"
+      },
+      {
+       "tr": "Sessiz",
+       "uz": "Kamgap, jim"
+      },
+      {
+       "tr": "Sıcak",
+       "uz": "İssiq"
+      },
+      {
+       "tr": "Sıfat",
+       "uz": "Sifat"
+      },
+      {
+       "tr": "Sinirli",
+       "uz": "Jahldor"
+      },
+      {
+       "tr": "Sosyal",
+       "uz": "İjtimoiy"
+      },
+      {
+       "tr": "Soyadı",
+       "uz": "Familiya"
+      },
+      {
+       "tr": "Şehir",
+       "uz": "Shahar"
+      },
+      {
+       "tr": "Şimdi",
+       "uz": "Hozir"
+      },
+      {
+       "tr": "Şışman",
+       "uz": "Semiz"
+      },
+      {
+       "tr": "Tabak",
+       "uz": "Tarelka"
+      },
+      {
+       "tr": "Tarih",
+       "uz": "Tarix"
+      },
+      {
+       "tr": "Tatil",
+       "uz": "Tatil"
+      },
+      {
+       "tr": "Tehlikeli",
+       "uz": "Xavfli"
+      },
+      {
+       "tr": "Tembel",
+       "uz": "Dangasa"
+      },
+      {
+       "tr": "Tezgahtar",
+       "uz": "Sotuvchi"
+      },
+      {
+       "tr": "Tuzlu",
+       "uz": "Tuzli"
+      },
+      {
+       "tr": "Ucuz",
+       "uz": "Arzon"
+      },
+      {
+       "tr": "Çirkin",
+       "uz": "Xunuk"
+      },
+      {
+       "tr": "Çöp kutusu",
+       "uz": "Axlat qutisi"
+      },
+      {
+       "tr": "Çünkü",
+       "uz": "Chunki"
+      },
+      {
+       "tr": "Dağınık",
+       "uz": "Tartibsiz"
+      },
+      {
+       "tr": "Dar",
+       "uz": "Tor"
+      },
+      {
+       "tr": "Dergi",
+       "uz": "Jurnal"
+      },
+      {
+       "tr": "Dikkatlı",
+       "uz": "E'tiborli"
+      },
+      {
+       "tr": "Dikkatsız",
+       "uz": "E'tiborsiz"
+      },
+      {
+       "tr": "Doğum tarihi",
+       "uz": "Tuğilgan sanasi"
+      },
+      {
+       "tr": "Dolu",
+       "uz": "Töla"
+      },
+      {
+       "tr": "Domates",
+       "uz": "Pamidor"
+      },
+      {
+       "tr": "Dosya",
+       "uz": "Fayl"
+      },
+      {
+       "tr": "Durak",
+       "uz": "Bekat"
+      },
+      {
+       "tr": "Duvar",
+       "uz": "Devor"
+      },
+      {
+       "tr": "Düzenli",
+       "uz": "Tartibli"
+      },
+      {
+       "tr": "Eczacı",
+       "uz": "Farmatseft"
+      },
+      {
+       "tr": "Eğlenceli",
+       "uz": "Maroqli"
+      },
+      {
+       "tr": "Eksi",
+       "uz": "Minus"
+      },
+      {
+       "tr": "Evli",
+       "uz": "Turmush qurgan"
+      },
+      {
+       "tr": "Fakir",
+       "uz": "Kambağal"
+      },
+      {
+       "tr": "Fark",
+       "uz": "Farq"
+      },
+      {
+       "tr": "Fırın",
+       "uz": "Duxovka, novvoyxona"
+      },
+      {
+       "tr": "Gazete",
+       "uz": "Gazeta"
+      },
+      {
+       "tr": "Genç",
+       "uz": "Yosh"
+      },
+      {
+       "tr": "Genellikle",
+       "uz": "Odatda"
+      },
+      {
+       "tr": "Komik",
+       "uz": "Kulguli"
+      },
+      {
+       "tr": "Konuşkan",
+       "uz": "Sergap"
+      },
+      {
+       "tr": "Koridor",
+       "uz": "Koridor"
+      },
+      {
+       "tr": "Kötü",
+       "uz": "Yomon"
+      },
+      {
+       "tr": "Kuaför",
+       "uz": "Sartarosh"
+      },
+      {
+       "tr": "Kuyumcu",
+       "uz": "Zargar"
+      },
+      {
+       "tr": "Lamba",
+       "uz": "Lampa"
+      },
+      {
+       "tr": "Mahalle",
+       "uz": "Mahalla"
+      },
+      {
+       "tr": "Manav",
+       "uz": "Sabzavot sotuvchisi"
+      },
+      {
+       "tr": "Market",
+       "uz": "Bozor"
+      },
+      {
+       "tr": "Mutfak",
+       "uz": "Oshxona"
+      },
+      {
+       "tr": "Mutlu",
+       "uz": "Baxtli"
+      },
+      {
+       "tr": "Mutsuz",
+       "uz": "Baxtsiz"
+      },
+      {
+       "tr": "Nerede",
+       "uz": "Qayerda"
+      },
+      {
+       "tr": "Nesne",
+       "uz": "Narsa"
+      },
+      {
+       "tr": "Niçin",
+       "uz": "Nima uchun"
+      },
+      {
+       "tr": "Ocak",
+       "uz": "Yanvar"
+      },
+      {
+       "tr": "Ofis",
+       "uz": "Ofis"
+      },
+      {
+       "tr": "Orada",
+       "uz": "U yerda"
+      },
+      {
+       "tr": "Öğleden sonra",
+       "uz": "Tushdan keyin"
+      },
+      {
+       "tr": "Önemli",
+       "uz": "Muhim"
+      },
+      {
+       "tr": "Önemsiz",
+       "uz": "Muhim emas"
+      },
+      {
+       "tr": "Pahalı",
+       "uz": "Qimmat"
+      },
+      {
+       "tr": "Pastane",
+       "uz": "Qandolat dökoni"
+      },
+      {
+       "tr": "Pembe",
+       "uz": "Pushti"
+      },
+      {
+       "tr": "Postane",
+       "uz": "Pochta"
+      },
+      {
+       "tr": "Uzak",
+       "uz": "Uzoq"
+      },
+      {
+       "tr": "Üst",
+       "uz": "Ust, tepa"
+      },
+      {
+       "tr": "Var",
+       "uz": "Bor"
+      },
+      {
+       "tr": "Yakın",
+       "uz": "Yaqin"
+      },
+      {
+       "tr": "Yastık",
+       "uz": "Yostiq"
+      },
+      {
+       "tr": "Yaş",
+       "uz": "Yosh"
+      },
+      {
+       "tr": "Yaşlı",
+       "uz": "Qari"
+      },
+      {
+       "tr": "Yavaş",
+       "uz": "Sekin"
+      },
+      {
+       "tr": "Yazı tahtası",
+       "uz": "Doska"
+      },
+      {
+       "tr": "Yer",
+       "uz": "Yer"
+      },
+      {
+       "tr": "Yıl",
+       "uz": "Yil"
+      },
+      {
+       "tr": "Yiyecek",
+       "uz": "Oziq-ovqat"
+      },
+      {
+       "tr": "Yoğun",
+       "uz": "Band"
+      },
+      {
+       "tr": "Yok",
+       "uz": "Yöq"
+      },
+      {
+       "tr": "Yorgun",
+       "uz": "Charchagan"
+      },
+      {
+       "tr": "Zamir",
+       "uz": "Olmosh"
+      },
+      {
+       "tr": "Zayıf",
+       "uz": "Ozğin"
+      },
+      {
+       "tr": "Zengin",
+       "uz": "Boy"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Aramak",
+       "uz": "Qidirmoq/ qönğiroq qilmoq"
+      }
+     ]
+    }
+   ],
+   "total": 147
+  },
+  {
+   "id": "A1-u3",
+   "file": "A1 Ünite 3.docx",
+   "level": "A1",
+   "number": 3,
+   "title": "Ünite 3",
+   "subtitle": "A1",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Açık büfe",
+       "uz": "Ochiq bufet"
+      },
+      {
+       "tr": "Anne",
+       "uz": "Ona"
+      },
+      {
+       "tr": "Aynı",
+       "uz": "Aynan, huddi"
+      },
+      {
+       "tr": "Bale",
+       "uz": "Balet"
+      },
+      {
+       "tr": "Bavul",
+       "uz": "Chemodan"
+      },
+      {
+       "tr": "Beraber",
+       "uz": "Teng, birgalikda"
+      },
+      {
+       "tr": "Biletçi",
+       "uz": "Chiptachi"
+      },
+      {
+       "tr": "Bilgisayar oyunu",
+       "uz": "Kompyuter öyini"
+      },
+      {
+       "tr": "Borç",
+       "uz": "Qarz"
+      },
+      {
+       "tr": "Boş zaman",
+       "uz": "Bösh vaqt"
+      },
+      {
+       "tr": "Büfe",
+       "uz": "Bufet, oshxona"
+      },
+      {
+       "tr": "Cevap",
+       "uz": "Javob"
+      },
+      {
+       "tr": "Dans",
+       "uz": "Raqs"
+      },
+      {
+       "tr": "Değişik",
+       "uz": "Farqli"
+      },
+      {
+       "tr": "Dışarı",
+       "uz": "Tashqari"
+      },
+      {
+       "tr": "Dizi",
+       "uz": "Serial"
+      },
+      {
+       "tr": "Ekonomi",
+       "uz": "İqtisod"
+      },
+      {
+       "tr": "Erken",
+       "uz": "Erta, vaqtli"
+      },
+      {
+       "tr": "Eski",
+       "uz": "Eski"
+      },
+      {
+       "tr": "Eş",
+       "uz": "Turmush örtoq"
+      },
+      {
+       "tr": "Ev hanımı",
+       "uz": "Uy bekasi"
+      },
+      {
+       "tr": "Fabrika",
+       "uz": "Fabrika , zavod"
+      },
+      {
+       "tr": "Farklı",
+       "uz": "Turli"
+      },
+      {
+       "tr": "Fikir",
+       "uz": "Fikr"
+      },
+      {
+       "tr": "Film",
+       "uz": "Kino"
+      },
+      {
+       "tr": "Memur",
+       "uz": "Davlat ishchisi, mamur"
+      },
+      {
+       "tr": "Mp3 çalar",
+       "uz": "Kolonka"
+      },
+      {
+       "tr": "Müsait",
+       "uz": "Bösh"
+      },
+      {
+       "tr": "Müşteri",
+       "uz": "Mijoz"
+      },
+      {
+       "tr": "Nefes",
+       "uz": "Nafas"
+      },
+      {
+       "tr": "Normal",
+       "uz": "Oddiy"
+      },
+      {
+       "tr": "Opera",
+       "uz": "Opera"
+      },
+      {
+       "tr": "Öğlen",
+       "uz": "Tush vaqti, abet"
+      },
+      {
+       "tr": "Öğrenci işleri",
+       "uz": "Öquvchi ishlari"
+      },
+      {
+       "tr": "Pijama",
+       "uz": "Pijama"
+      },
+      {
+       "tr": "Restoran",
+       "uz": "Restoran"
+      },
+      {
+       "tr": "Sabahları",
+       "uz": "Ertalablari"
+      },
+      {
+       "tr": "Sağlıklı",
+       "uz": "Soğlom"
+      },
+      {
+       "tr": "Sefer",
+       "uz": "Safar, syohat"
+      },
+      {
+       "tr": "Sergi",
+       "uz": "Körgazma"
+      },
+      {
+       "tr": "Site",
+       "uz": "Sayt"
+      },
+      {
+       "tr": "Şarkı",
+       "uz": "Qöshiq"
+      },
+      {
+       "tr": "Şiir",
+       "uz": "She'r"
+      },
+      {
+       "tr": "Terlik",
+       "uz": "Tapochka"
+      },
+      {
+       "tr": "Tiyatro",
+       "uz": "Teatr"
+      },
+      {
+       "tr": "Tur",
+       "uz": "Sayohat, tur"
+      },
+      {
+       "tr": "Tür",
+       "uz": "Xil, tur"
+      },
+      {
+       "tr": "Uygun",
+       "uz": "Mos"
+      },
+      {
+       "tr": "Vapur",
+       "uz": "Poroxod"
+      },
+      {
+       "tr": "Yalan",
+       "uz": "Yolğon"
+      },
+      {
+       "tr": "Yanlış",
+       "uz": "Xato"
+      },
+      {
+       "tr": "Durmak",
+       "uz": "Turmoq, töxtamoq"
+      },
+      {
+       "tr": "Dolaşmak",
+       "uz": "Aylanmoq"
+      },
+      {
+       "tr": "Fotoğraf çekmek",
+       "uz": "Rasmga tushirmoq"
+      },
+      {
+       "tr": "Geçmek",
+       "uz": "Ötmoq"
+      },
+      {
+       "tr": "Gezmek",
+       "uz": "Kezmoq"
+      },
+      {
+       "tr": "Girmek",
+       "uz": "Kirmoq"
+      },
+      {
+       "tr": "Gitmek",
+       "uz": "Ketmoq, bormoq"
+      },
+      {
+       "tr": "Hazırlanmak",
+       "uz": "Tayyorlanmoq"
+      },
+      {
+       "tr": "Hazırlamak",
+       "uz": "Tayyorlamoq"
+      },
+      {
+       "tr": "Hoşlanmak",
+       "uz": "Yoqtirmoq"
+      },
+      {
+       "tr": "İnternete girmek",
+       "uz": "İnternetga kirmoq"
+      },
+      {
+       "tr": "İzlemek",
+       "uz": "Qidirmoq"
+      },
+      {
+       "tr": "Kahvaltı etmek",
+       "uz": "Nonushta qilmoq"
+      },
+      {
+       "tr": "Kalkmak",
+       "uz": "Turmoq, uyğonmoq"
+      },
+      {
+       "tr": "Kalmak",
+       "uz": "Qolmoq"
+      },
+      {
+       "tr": "Kapatmak",
+       "uz": "Berkitmoq"
+      },
+      {
+       "tr": "Kontrol etmek",
+       "uz": "Nazorat qilmoq"
+      },
+      {
+       "tr": "Konuşmak",
+       "uz": "Gaplashmoq"
+      },
+      {
+       "tr": "Korkmak",
+       "uz": "Qörqmoq"
+      },
+      {
+       "tr": "Koşmak",
+       "uz": "Yugurmoq"
+      },
+      {
+       "tr": "Koymak",
+       "uz": "Qöymoq"
+      },
+      {
+       "tr": "Kullanmak",
+       "uz": "Foydalanmoq, haydamoq"
+      },
+      {
+       "tr": "Nefret etmek",
+       "uz": "Nafratlanmoq"
+      },
+      {
+       "tr": "Okumak",
+       "uz": "Öqimoq"
+      },
+      {
+       "tr": "Oturmak",
+       "uz": "Ötirmoq"
+      },
+      {
+       "tr": "Oynamak",
+       "uz": "Öynamoq"
+      },
+      {
+       "tr": "Yazmak",
+       "uz": "Yozmoq"
+      },
+      {
+       "tr": "Yemek",
+       "uz": "Yemoq"
+      },
+      {
+       "tr": "Yorulmak",
+       "uz": "Charchamoq"
+      },
+      {
+       "tr": "Yürümek",
+       "uz": "Yurmoq"
+      },
+      {
+       "tr": "Yüzmek",
+       "uz": "Suzmoq"
+      }
+     ]
+    },
+    {
+     "key": "kalip ifadeler",
+     "name": "Kalıp İfadeler",
+     "nameUz": "Iboralar",
+     "words": [
+      {
+       "tr": "Bol bol",
+       "uz": "Köp köp"
+      },
+      {
+       "tr": "İnşallah",
+       "uz": "Inshalloh"
+      },
+      {
+       "tr": "Futbol",
+       "uz": "Futbol"
+      },
+      {
+       "tr": "Futbol maçı",
+       "uz": "Futbol öyini"
+      },
+      {
+       "tr": "Geç",
+       "uz": "Kech"
+      },
+      {
+       "tr": "Gezi",
+       "uz": "Sayohat"
+      },
+      {
+       "tr": "Gitar",
+       "uz": "Gitara"
+      },
+      {
+       "tr": "Gösteri",
+       "uz": "Namoyish"
+      },
+      {
+       "tr": "Hafta içi",
+       "uz": "Hafta davomida"
+      },
+      {
+       "tr": "Hava",
+       "uz": "Havo"
+      },
+      {
+       "tr": "Hayat",
+       "uz": "Hayot"
+      },
+      {
+       "tr": "Hazır",
+       "uz": "Tayyor"
+      },
+      {
+       "tr": "Hediye",
+       "uz": "Sovğa"
+      },
+      {
+       "tr": "Heyecanlı",
+       "uz": "Hayajonlangan"
+      },
+      {
+       "tr": "Hiçbir zaman",
+       "uz": "Hech qachon"
+      },
+      {
+       "tr": "Hukuk",
+       "uz": "Huquq"
+      },
+      {
+       "tr": "İçeri",
+       "uz": "İchkari"
+      },
+      {
+       "tr": "İş yeri",
+       "uz": "İsh joyi"
+      },
+      {
+       "tr": "İş adamı",
+       "uz": "Tadbirkor"
+      },
+      {
+       "tr": "İşçi",
+       "uz": "İshchi"
+      },
+      {
+       "tr": "Kampus",
+       "uz": "Kampus"
+      },
+      {
+       "tr": "Kenepe",
+       "uz": "Divan"
+      },
+      {
+       "tr": "Kebap",
+       "uz": "Kabob"
+      },
+      {
+       "tr": "Kızgın",
+       "uz": "Jahli chiqqan"
+      },
+      {
+       "tr": "Konser",
+       "uz": "Konsert"
+      },
+      {
+       "tr": "Kulüp",
+       "uz": "Klub"
+      },
+      {
+       "tr": "Litre",
+       "uz": "Litr"
+      },
+      {
+       "tr": "Maç",
+       "uz": "Öyin"
+      },
+      {
+       "tr": "Yemekhane",
+       "uz": "Yemakxona"
+      },
+      {
+       "tr": "Yeni",
+       "uz": "Yangi"
+      },
+      {
+       "tr": "Yolcu",
+       "uz": "Yölchi"
+      },
+      {
+       "tr": "Yurt",
+       "uz": "Yotoqxona"
+      },
+      {
+       "tr": "Zaman",
+       "uz": "Vaqt"
+      },
+      {
+       "tr": "Eşit",
+       "uz": "Teng"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Açmak",
+       "uz": "Ochmoq"
+      },
+      {
+       "tr": "Anlamak",
+       "uz": "Tushunmoq"
+      },
+      {
+       "tr": "Bakmak",
+       "uz": "Qaramoq"
+      },
+      {
+       "tr": "Banyo yapmak",
+       "uz": "Chömilmoq"
+      },
+      {
+       "tr": "Başlamak",
+       "uz": "Boshlamoq"
+      },
+      {
+       "tr": "Bayılmak",
+       "uz": "Yoqtirmoq"
+      },
+      {
+       "tr": "Beslenmek",
+       "uz": "Ovqatlanmoq"
+      },
+      {
+       "tr": "Bilmek",
+       "uz": "Bilmoq"
+      },
+      {
+       "tr": "Binmek",
+       "uz": "Minmoq"
+      },
+      {
+       "tr": "Biriktirmek",
+       "uz": "Töplamoq ( pul)"
+      },
+      {
+       "tr": "Bitmek",
+       "uz": "Tugamoq"
+      },
+      {
+       "tr": "Buluşmak",
+       "uz": "Uchrashmoq"
+      },
+      {
+       "tr": "Calışmak",
+       "uz": "İshlamoq"
+      },
+      {
+       "tr": "Çıkmak",
+       "uz": "Chiqmoq"
+      },
+      {
+       "tr": "Demek",
+       "uz": "Demoq"
+      },
+      {
+       "tr": "Dinlenmek",
+       "uz": "Dam olmoq"
+      },
+      {
+       "tr": "Dinlemek",
+       "uz": "Eshitmoq"
+      },
+      {
+       "tr": "Duş almak",
+       "uz": "Dush qabul qilmoq"
+      },
+      {
+       "tr": "Dönmek",
+       "uz": "Qaytmoq"
+      },
+      {
+       "tr": "Öğrenmek",
+       "uz": "Örganmoq"
+      },
+      {
+       "tr": "Özlemek",
+       "uz": "Soğinmoq"
+      },
+      {
+       "tr": "Para çekmek",
+       "uz": "Pul yechib olmoq"
+      },
+      {
+       "tr": "Pişirmek",
+       "uz": "Pishirmoq"
+      },
+      {
+       "tr": "Sanmak",
+       "uz": "..deb hisoblamoq"
+      },
+      {
+       "tr": "Sevmek",
+       "uz": "Sevmoq"
+      },
+      {
+       "tr": "Sıkılmak",
+       "uz": "Siqilmoq"
+      },
+      {
+       "tr": "Sohbet etmek",
+       "uz": "Suhbatlashmoq"
+      },
+      {
+       "tr": "Sormak",
+       "uz": "Söramoq"
+      },
+      {
+       "tr": "Söylemek",
+       "uz": "Aytmoq"
+      },
+      {
+       "tr": "Spor yapmak",
+       "uz": "Sport bn shuğullanmoq"
+      },
+      {
+       "tr": "Stres atmak",
+       "uz": "Stresdan qutulmoq"
+      },
+      {
+       "tr": "Tanımak",
+       "uz": "Tanimoq"
+      },
+      {
+       "tr": "Tanışmak",
+       "uz": "Tanishmoq"
+      },
+      {
+       "tr": "Tekrar etmek",
+       "uz": "Takrorlamoq"
+      },
+      {
+       "tr": "Temizlemek",
+       "uz": "Tozalamoq"
+      },
+      {
+       "tr": "Tırmanmak",
+       "uz": "Tirmashmoq"
+      },
+      {
+       "tr": "Uyumak",
+       "uz": "Uhlamoq"
+      },
+      {
+       "tr": "Uzanmak",
+       "uz": "Uzalmoq, yotmoq"
+      },
+      {
+       "tr": "Varmak",
+       "uz": "Bormoq"
+      },
+      {
+       "tr": "Vermek",
+       "uz": "Bermoq"
+      },
+      {
+       "tr": "Yapmak",
+       "uz": "Bajarmoq"
+      },
+      {
+       "tr": "Yardım etmek",
+       "uz": "Yordam bermoq"
+      },
+      {
+       "tr": "Yardım istemek",
+       "uz": "Yordam söramoq"
+      },
+      {
+       "tr": "Yaşamak",
+       "uz": "Yashamoq"
+      },
+      {
+       "tr": "Yatmak",
+       "uz": "Yotmoq"
+      }
+     ]
+    }
+   ],
+   "total": 161
+  },
+  {
+   "id": "A1-u4",
+   "file": "A1 Ünite4.docx",
+   "level": "A1",
+   "number": 4,
+   "title": "Ünite 4",
+   "subtitle": "A1",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Abla",
+       "uz": "Opa"
+      },
+      {
+       "tr": "Ağabey",
+       "uz": "Aka"
+      },
+      {
+       "tr": "Ağız",
+       "uz": "Oğiz"
+      },
+      {
+       "tr": "Aile",
+       "uz": "Oila"
+      },
+      {
+       "tr": "Amca",
+       "uz": "Amaki"
+      },
+      {
+       "tr": "Anadil",
+       "uz": "Ona tili"
+      },
+      {
+       "tr": "Anahtar",
+       "uz": "Kalit"
+      },
+      {
+       "tr": "Anaokulu",
+       "uz": "Boğcha"
+      },
+      {
+       "tr": "Anneanne",
+       "uz": "Buvi( ona tomon)"
+      },
+      {
+       "tr": "Babaanne",
+       "uz": "Bobo( ona yomon)"
+      },
+      {
+       "tr": "Boyun",
+       "uz": "Böyin"
+      },
+      {
+       "tr": "Burun",
+       "uz": "Burin"
+      },
+      {
+       "tr": "Dayı",
+       "uz": "Toğa"
+      },
+      {
+       "tr": "Dede",
+       "uz": "Bobo"
+      },
+      {
+       "tr": "Diş",
+       "uz": "Tish"
+      },
+      {
+       "tr": "Erkek kardeş",
+       "uz": "Uka"
+      },
+      {
+       "tr": "Hala",
+       "uz": "Amma"
+      },
+      {
+       "tr": "Havuz",
+       "uz": "Basseyn, hovuz"
+      },
+      {
+       "tr": "İlkokul",
+       "uz": "Boshlanğich maktab"
+      },
+      {
+       "tr": "Karı",
+       "uz": "Xotin"
+      },
+      {
+       "tr": "Kız kardeş",
+       "uz": "Singil"
+      },
+      {
+       "tr": "Koca",
+       "uz": "Er"
+      },
+      {
+       "tr": "Kol",
+       "uz": "Qöl"
+      },
+      {
+       "tr": "Lise",
+       "uz": "Litsey"
+      },
+      {
+       "tr": "Manto",
+       "uz": "Palto"
+      },
+      {
+       "tr": "Mektup",
+       "uz": "Maktub"
+      },
+      {
+       "tr": "Omuz",
+       "uz": "Yelka"
+      },
+      {
+       "tr": "Ortaokul",
+       "uz": "Örta maktab"
+      },
+      {
+       "tr": "Satranç",
+       "uz": "Shaxmat"
+      },
+      {
+       "tr": "Şirket",
+       "uz": "Kompaniya"
+      },
+      {
+       "tr": "Teneffüs",
+       "uz": "Tanafus"
+      },
+      {
+       "tr": "Teyze",
+       "uz": "Xola"
+      },
+      {
+       "tr": "Üniversite",
+       "uz": "Universitet"
+      },
+      {
+       "tr": "Ütü",
+       "uz": "Dazmol"
+      },
+      {
+       "tr": "Yabancı dil",
+       "uz": "Xorijiy til"
+      },
+      {
+       "tr": "Yaramaz",
+       "uz": "Shöx"
+      },
+      {
+       "tr": "Zevkli",
+       "uz": "Zavqli, maroqli"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Almak",
+       "uz": "Olmoq"
+      },
+      {
+       "tr": "Dans etmak",
+       "uz": "Raqsga tushmoq"
+      },
+      {
+       "tr": "Çalmak",
+       "uz": "Chalmoq / Öğirlamoq"
+      },
+      {
+       "tr": "Hissetmek",
+       "uz": "His qilmoq"
+      },
+      {
+       "tr": "Yazmak",
+       "uz": "Yozmoq"
+      },
+      {
+       "tr": "Göndermek",
+       "uz": "Yubormoq"
+      },
+      {
+       "tr": "Oynamak",
+       "uz": "Öynamoq"
+      },
+      {
+       "tr": "Öğretmek",
+       "uz": "Örgatmoq"
+      },
+      {
+       "tr": "Telefon etmek",
+       "uz": "Telefon qilmoq"
+      }
+     ]
+    }
+   ],
+   "total": 46
+  },
+  {
+   "id": "A1-u5",
+   "file": "A1 ünite 5.docx",
+   "level": "A1",
+   "number": 5,
+   "title": "Ünite 5",
+   "subtitle": "A1",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Ağustos",
+       "uz": "Avgust"
+      },
+      {
+       "tr": "Ajanta",
+       "uz": "Agentlik"
+      },
+      {
+       "tr": "Akıl",
+       "uz": "Aql"
+      },
+      {
+       "tr": "Anma",
+       "uz": "Xotirlash"
+      },
+      {
+       "tr": "Aralık",
+       "uz": "Dekabr"
+      },
+      {
+       "tr": "Ateş",
+       "uz": "Olov"
+      },
+      {
+       "tr": "Balayı",
+       "uz": "Asal oyi"
+      },
+      {
+       "tr": "Biricik",
+       "uz": "Yagona"
+      },
+      {
+       "tr": "Birlikte",
+       "uz": "Birgalikda"
+      },
+      {
+       "tr": "Boya",
+       "uz": "Böyoq"
+      },
+      {
+       "tr": "Buçuk",
+       "uz": "Yarim"
+      },
+      {
+       "tr": "Cimri",
+       "uz": "Ziqna"
+      },
+      {
+       "tr": "Cuma",
+       "uz": "Juma"
+      },
+      {
+       "tr": "Cumartesi",
+       "uz": "Shanba"
+      },
+      {
+       "tr": "Çarşamba",
+       "uz": "Chorshanba"
+      },
+      {
+       "tr": "Çeşitli",
+       "uz": "Turli"
+      },
+      {
+       "tr": "Çeyrek",
+       "uz": "Chorak"
+      },
+      {
+       "tr": "Çorba",
+       "uz": "Shörva"
+      },
+      {
+       "tr": "Çoşku",
+       "uz": "İshtiyoq"
+      },
+      {
+       "tr": "Dakika",
+       "uz": "Daqiqa"
+      },
+      {
+       "tr": "Dilek",
+       "uz": "Tilak"
+      },
+      {
+       "tr": "Dini",
+       "uz": "Diniy"
+      },
+      {
+       "tr": "Dişçi",
+       "uz": "Stomatolog"
+      },
+      {
+       "tr": "Dolunay",
+       "uz": "Tölinoy"
+      },
+      {
+       "tr": "Düğüm",
+       "uz": "Tugun"
+      },
+      {
+       "tr": "Mezuniyet",
+       "uz": "Bitiruv"
+      },
+      {
+       "tr": "Milli",
+       "uz": "Milliy"
+      },
+      {
+       "tr": "Mola",
+       "uz": "Tanaffus"
+      },
+      {
+       "tr": "Mor",
+       "uz": "Siyohrang"
+      },
+      {
+       "tr": "Nice",
+       "uz": "Qancha"
+      },
+      {
+       "tr": "Nikah",
+       "uz": "Nikoh"
+      },
+      {
+       "tr": "Nisan",
+       "uz": "Aprel"
+      },
+      {
+       "tr": "Odun",
+       "uz": "Ötin"
+      },
+      {
+       "tr": "Ömür",
+       "uz": "Umr"
+      },
+      {
+       "tr": "Palto",
+       "uz": "Palto"
+      },
+      {
+       "tr": "Pazar",
+       "uz": "Yakshanba"
+      },
+      {
+       "tr": "Pazartesi",
+       "uz": "Dushanba"
+      },
+      {
+       "tr": "Perşembe",
+       "uz": "Payshanba"
+      },
+      {
+       "tr": "Program",
+       "uz": "Programma"
+      },
+      {
+       "tr": "Randevu",
+       "uz": "Uchrashuv"
+      },
+      {
+       "tr": "Resmi",
+       "uz": "Rasmiy"
+      },
+      {
+       "tr": "Rezervasyon",
+       "uz": "Bron qilish"
+      },
+      {
+       "tr": "Salı",
+       "uz": "Seshanba"
+      },
+      {
+       "tr": "Saniye",
+       "uz": "Soniya"
+      },
+      {
+       "tr": "Sarı",
+       "uz": "Sariq"
+      },
+      {
+       "tr": "Saygıdeğer",
+       "uz": "Hurmatli"
+      },
+      {
+       "tr": "Sevgili",
+       "uz": "Sevgili"
+      },
+      {
+       "tr": "Sonbahar",
+       "uz": "Kuz"
+      },
+      {
+       "tr": "Sürpriz",
+       "uz": "Syurpriz"
+      },
+      {
+       "tr": "Katılmak",
+       "uz": "Qöshilmoq"
+      },
+      {
+       "tr": "Korumak",
+       "uz": "Qöriqlamoq"
+      },
+      {
+       "tr": "Öpmek",
+       "uz": "Öpmoq"
+      },
+      {
+       "tr": "Satın almak",
+       "uz": "Sotib olmoq"
+      },
+      {
+       "tr": "Sürmek",
+       "uz": "Surmoq, minmoq"
+      },
+      {
+       "tr": "Toplamak",
+       "uz": "Yiğmoq"
+      },
+      {
+       "tr": "Vedalaşmak",
+       "uz": "Xayrlashmoq"
+      },
+      {
+       "tr": "Egemenlik",
+       "uz": "Mustaqillik"
+      },
+      {
+       "tr": "Ekim",
+       "uz": "Oktabr"
+      },
+      {
+       "tr": "Evlilik",
+       "uz": "Turmush qurganlik"
+      },
+      {
+       "tr": "Eylül",
+       "uz": "Sentabr"
+      },
+      {
+       "tr": "Galeri",
+       "uz": "Galereya"
+      },
+      {
+       "tr": "Gelecek",
+       "uz": "Kelajak"
+      },
+      {
+       "tr": "Gençlik",
+       "uz": "Yoshlik"
+      },
+      {
+       "tr": "Geveze",
+       "uz": "Sergap"
+      },
+      {
+       "tr": "Harf",
+       "uz": "Harf"
+      },
+      {
+       "tr": "Hazırlık",
+       "uz": "Tayyorlik"
+      },
+      {
+       "tr": "Haziran",
+       "uz": "Iyun"
+      },
+      {
+       "tr": "Hece",
+       "uz": "Böğin"
+      },
+      {
+       "tr": "Heyecan",
+       "uz": "Hayajon"
+      },
+      {
+       "tr": "İlkbahar",
+       "uz": "Bahor"
+      },
+      {
+       "tr": "Kasım",
+       "uz": "Noyabr"
+      },
+      {
+       "tr": "Kaza",
+       "uz": "Baxtsiz hodisa, avariya"
+      },
+      {
+       "tr": "Kış",
+       "uz": "Qish"
+      },
+      {
+       "tr": "Kurum",
+       "uz": "Tashkilot"
+      },
+      {
+       "tr": "Kutlama",
+       "uz": "Tabrik, qutlov"
+      },
+      {
+       "tr": "Kültür",
+       "uz": "Madaniyat"
+      },
+      {
+       "tr": "Marş",
+       "uz": "Madhiya"
+      },
+      {
+       "tr": "Mart",
+       "uz": "Mart"
+      },
+      {
+       "tr": "Mavi",
+       "uz": "Havorang"
+      },
+      {
+       "tr": "Mayıs",
+       "uz": "May"
+      },
+      {
+       "tr": "Mevsim",
+       "uz": "Fasl"
+      },
+      {
+       "tr": "Şubat",
+       "uz": "Fevral"
+      },
+      {
+       "tr": "Temmuz",
+       "uz": "İyul"
+      },
+      {
+       "tr": "Toplantı",
+       "uz": "Majlis"
+      },
+      {
+       "tr": "Ulusal",
+       "uz": "Milliy"
+      },
+      {
+       "tr": "Vakit",
+       "uz": "Vaqt"
+      },
+      {
+       "tr": "Yaz",
+       "uz": "Yoz"
+      },
+      {
+       "tr": "Yeşil",
+       "uz": "Yashil"
+      },
+      {
+       "tr": "Yılbaşı",
+       "uz": "Yangi yil"
+      },
+      {
+       "tr": "Yıldönümü",
+       "uz": "Yubiley"
+      },
+      {
+       "tr": "Zafer",
+       "uz": "Ğalaba"
+      },
+      {
+       "tr": "Zorluk",
+       "uz": "Qiyinchilik"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Asmak",
+       "uz": "Osmoq"
+      },
+      {
+       "tr": "Atlamak",
+       "uz": "Sakramoa"
+      },
+      {
+       "tr": "Atmak",
+       "uz": "Otmoq"
+      },
+      {
+       "tr": "Beklemek",
+       "uz": "Kutmoq"
+      },
+      {
+       "tr": "Benzemek",
+       "uz": "Öxshamoq"
+      },
+      {
+       "tr": "Devam etmek",
+       "uz": "Davom etmoq"
+      },
+      {
+       "tr": "Dilemek",
+       "uz": "Tilamoq"
+      },
+      {
+       "tr": "Doğmak",
+       "uz": "Tuğilmoq"
+      },
+      {
+       "tr": "Evlenmek",
+       "uz": "Oila qurmoq"
+      },
+      {
+       "tr": "Gecikmek",
+       "uz": "Kechikmoq"
+      },
+      {
+       "tr": "Heyecanlanmak",
+       "uz": "Hayajonlanmoq"
+      },
+      {
+       "tr": "Kapanmak",
+       "uz": "Yopilmoq"
+      },
+      {
+       "tr": "Karşılamak",
+       "uz": "Kutib olmoq"
+      },
+      {
+       "tr": "Kutlamak",
+       "uz": "Tabriklamoq"
+      },
+      {
+       "tr": "Kutlu olmak",
+       "uz": "Muborak bölmoq"
+      },
+      {
+       "tr": "Yakmak",
+       "uz": "Yoqmoq"
+      },
+      {
+       "tr": "Yaşlanmak",
+       "uz": "Qarimoq"
+      },
+      {
+       "tr": "Yenmek",
+       "uz": "Yemoq, yemirilmoq"
+      },
+      {
+       "tr": "Yıkamak",
+       "uz": "Yuvmoq"
+      },
+      {
+       "tr": "Ziyaret etmek",
+       "uz": "Ziyorat qilmoq"
+      }
+     ]
+    }
+   ],
+   "total": 112
+  },
+  {
+   "id": "A1-u6",
+   "file": "A1 ünite 6.docx",
+   "level": "A1",
+   "number": 6,
+   "title": "Ünite 6",
+   "subtitle": "A1",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Akıllı",
+       "uz": "Aqlli"
+      },
+      {
+       "tr": "Akraba",
+       "uz": "Qarindosh"
+      },
+      {
+       "tr": "Alan",
+       "uz": "Soha"
+      },
+      {
+       "tr": "Alt",
+       "uz": "Ost"
+      },
+      {
+       "tr": "Arka",
+       "uz": "Orqa"
+      },
+      {
+       "tr": "Aşaği",
+       "uz": "Past"
+      },
+      {
+       "tr": "Boyun",
+       "uz": "Böyin"
+      },
+      {
+       "tr": "Cadde",
+       "uz": "Köcha"
+      },
+      {
+       "tr": "Cesur",
+       "uz": "Jasur"
+      },
+      {
+       "tr": "Çene",
+       "uz": "Jağ"
+      },
+      {
+       "tr": "Çiftçi",
+       "uz": "Dehqon"
+      },
+      {
+       "tr": "Dış",
+       "uz": "Tish"
+      },
+      {
+       "tr": "Düğün",
+       "uz": "Töy"
+      },
+      {
+       "tr": "Emekli",
+       "uz": "Nafaqaxör"
+      },
+      {
+       "tr": "Enişte",
+       "uz": "Pochcha, kuyov"
+      },
+      {
+       "tr": "Göl",
+       "uz": "Köl"
+      },
+      {
+       "tr": "Grip",
+       "uz": "Gripp"
+      },
+      {
+       "tr": "Güler yüzlü",
+       "uz": "Ochiq chehrali"
+      },
+      {
+       "tr": "Halsız",
+       "uz": "Holsiz"
+      },
+      {
+       "tr": "İç",
+       "uz": "İch"
+      },
+      {
+       "tr": "İskele",
+       "uz": "Port"
+      },
+      {
+       "tr": "Kalabalık",
+       "uz": "Gavjum"
+      },
+      {
+       "tr": "Karşı",
+       "uz": "Qarshi"
+      },
+      {
+       "tr": "Kibar",
+       "uz": "Saxiy"
+      },
+      {
+       "tr": "Köprü",
+       "uz": "Köprik"
+      },
+      {
+       "tr": "Şeker",
+       "uz": "Shirinlik, shakar"
+      },
+      {
+       "tr": "Şikayet",
+       "uz": "Shikoyat"
+      },
+      {
+       "tr": "Tahmin",
+       "uz": "Tahmin"
+      },
+      {
+       "tr": "Tarihi",
+       "uz": "Tarixiy"
+      },
+      {
+       "tr": "Ten",
+       "uz": "Teri"
+      },
+      {
+       "tr": "Terzi",
+       "uz": "Tikuvchi"
+      },
+      {
+       "tr": "Teyze",
+       "uz": "Xola"
+      },
+      {
+       "tr": "Üst",
+       "uz": "Ust"
+      },
+      {
+       "tr": "Vücut",
+       "uz": "Tana"
+      },
+      {
+       "tr": "Yaramaz",
+       "uz": "Shöx"
+      },
+      {
+       "tr": "Yenge",
+       "uz": "Yanga"
+      },
+      {
+       "tr": "Yukarı",
+       "uz": "Yuqori, baland"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Ağrımak",
+       "uz": "Oğrimoq"
+      },
+      {
+       "tr": "Anlaşmak",
+       "uz": "Tushunmoq"
+      },
+      {
+       "tr": "Bayılmak",
+       "uz": "Yoqtirmoq( kuchli )"
+      },
+      {
+       "tr": "Beğenmek",
+       "uz": "Yoqtirmoq(örtacha)"
+      },
+      {
+       "tr": "Danışmak",
+       "uz": "Tanishmoq"
+      },
+      {
+       "tr": "Dinlemek",
+       "uz": "Eshitmoq"
+      },
+      {
+       "tr": "Gezmek",
+       "uz": "Kezmoq"
+      },
+      {
+       "tr": "Görüşmek",
+       "uz": "Körishmoq"
+      },
+      {
+       "tr": "Hissetmek",
+       "uz": "His qilmoq"
+      },
+      {
+       "tr": "İlgilenmek",
+       "uz": "Qiziqmoq"
+      },
+      {
+       "tr": "Kalkmak",
+       "uz": "Turmoq"
+      },
+      {
+       "tr": "Köşe",
+       "uz": "Burchak"
+      },
+      {
+       "tr": "Kulak",
+       "uz": "Quloq"
+      },
+      {
+       "tr": "Kuzen",
+       "uz": "Amakivachcha"
+      },
+      {
+       "tr": "Kütüphane",
+       "uz": "Kutubxona"
+      },
+      {
+       "tr": "Lezzetli",
+       "uz": "Mazali"
+      },
+      {
+       "tr": "Mahalle",
+       "uz": "Mahalla"
+      },
+      {
+       "tr": "Manzara",
+       "uz": "Manzara"
+      },
+      {
+       "tr": "Marka",
+       "uz": "Brend"
+      },
+      {
+       "tr": "Mercimek çorbası",
+       "uz": "Чечевичный суп, Chechevitsali shörva"
+      },
+      {
+       "tr": "Meydan",
+       "uz": "Maydon"
+      },
+      {
+       "tr": "Nehir",
+       "uz": "Daryo"
+      },
+      {
+       "tr": "Orta",
+       "uz": "Örta"
+      },
+      {
+       "tr": "Ön",
+       "uz": "Ön"
+      },
+      {
+       "tr": "Parmak",
+       "uz": "Barmoq"
+      },
+      {
+       "tr": "Patlıcan",
+       "uz": "Baqlajon"
+      },
+      {
+       "tr": "Plan",
+       "uz": "Reja"
+      },
+      {
+       "tr": "Rapor",
+       "uz": "Hisobot"
+      },
+      {
+       "tr": "Reçete",
+       "uz": "Retsept"
+      },
+      {
+       "tr": "Renk",
+       "uz": "Rang"
+      },
+      {
+       "tr": "Sağ",
+       "uz": "Öng"
+      },
+      {
+       "tr": "Salıncak",
+       "uz": "Halinchalak"
+      },
+      {
+       "tr": "Sol",
+       "uz": "Chap"
+      },
+      {
+       "tr": "Sözlük",
+       "uz": "Luğat"
+      },
+      {
+       "tr": "Kaşınmak",
+       "uz": "Qichishmoq"
+      },
+      {
+       "tr": "Katılmak",
+       "uz": "Qatnashmoq, qöshilmoq"
+      },
+      {
+       "tr": "Kızarmak",
+       "uz": "Qizarmoq, qovurmoq"
+      },
+      {
+       "tr": "Sallanmak",
+       "uz": "Silkinmoq, tebranmoq"
+      },
+      {
+       "tr": "Tanımak",
+       "uz": "Tanimoq"
+      },
+      {
+       "tr": "Tansiyon ölçtürmek",
+       "uz": "Qon bosimini ölchatmoq"
+      },
+      {
+       "tr": "Tartılmak",
+       "uz": "Tortilmoq"
+      },
+      {
+       "tr": "Tedavi olmak",
+       "uz": "Davolanmoq"
+      },
+      {
+       "tr": "Öksürmek",
+       "uz": "Yötalmoq"
+      },
+      {
+       "tr": "Ziyarete gelmek",
+       "uz": "Ziyoratga kelmoq"
+      }
+     ]
+    }
+   ],
+   "total": 81
+  },
+  {
+   "id": "A2-u1",
+   "file": "Ünite 1. yeni kelimeler.docx",
+   "level": "A2",
+   "number": 1,
+   "title": "Ünite 1",
+   "subtitle": "A2",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Ada",
+       "uz": "Orol"
+      },
+      {
+       "tr": "Akıllı",
+       "uz": "Aqlli"
+      },
+      {
+       "tr": "Altın",
+       "uz": "Oltin"
+      },
+      {
+       "tr": "Ana yemek",
+       "uz": "2-taom.(asosiy)"
+      },
+      {
+       "tr": "Apartman",
+       "uz": "Ko`p qavatli uy, дом"
+      },
+      {
+       "tr": "Aptal",
+       "uz": "Jinni, ahmoq"
+      },
+      {
+       "tr": "Aşık",
+       "uz": "Oshiq"
+      },
+      {
+       "tr": "Aşk",
+       "uz": "İshq, sevgi"
+      },
+      {
+       "tr": "Avuç",
+       "uz": "Hovuch, kaft"
+      },
+      {
+       "tr": "Baklava",
+       "uz": "Baqlava, turk shirinligi"
+      },
+      {
+       "tr": "Beyaz",
+       "uz": "Oq"
+      },
+      {
+       "tr": "Bez",
+       "uz": "Mato"
+      },
+      {
+       "tr": "Bıyık",
+       "uz": "Mo`ylov"
+      },
+      {
+       "tr": "Biber",
+       "uz": "Qalampir"
+      },
+      {
+       "tr": "Bol",
+       "uz": "Ko`p"
+      },
+      {
+       "tr": "Börek",
+       "uz": "Turkcha taom, hamirli"
+      },
+      {
+       "tr": "Bulut",
+       "uz": "Bulut"
+      },
+      {
+       "tr": "Büfe",
+       "uz": "Bufet"
+      },
+      {
+       "tr": "Cadde",
+       "uz": "Ko`cha"
+      },
+      {
+       "tr": "Çikolata",
+       "uz": "Shokolad"
+      },
+      {
+       "tr": "Çim",
+       "uz": "O`t, gazon, chim"
+      },
+      {
+       "tr": "Çizgi",
+       "uz": "Chiziq"
+      },
+      {
+       "tr": "Çöp",
+       "uz": "Axlat qutisi, cho`p"
+      },
+      {
+       "tr": "Dalgalı",
+       "uz": "To`lqinli"
+      },
+      {
+       "tr": "Damar",
+       "uz": "Tomir"
+      },
+      {
+       "tr": "Demet",
+       "uz": "Buket, to`plam"
+      },
+      {
+       "tr": "Dengesiz",
+       "uz": "Muvazanatsiz"
+      },
+      {
+       "tr": "Dilim",
+       "uz": "Tilim (bo`lak)"
+      },
+      {
+       "tr": "Dosdoğru",
+       "uz": "To`ppa-to`g`ri"
+      },
+      {
+       "tr": "Dürüst",
+       "uz": "Halol, честный"
+      },
+      {
+       "tr": "Düşünceli",
+       "uz": "O`ychan"
+      },
+      {
+       "tr": "Düzenli",
+       "uz": "Tartibli"
+      },
+      {
+       "tr": "Ecza dolabı",
+       "uz": "Dori shkafi, аптечка"
+      },
+      {
+       "tr": "Ela",
+       "uz": "Ola (rang), jigarrang"
+      },
+      {
+       "tr": "Emir",
+       "uz": "Buyruq, amir"
+      },
+      {
+       "tr": "Enerjik",
+       "uz": "Baquvvat, energiyaga to`la"
+      },
+      {
+       "tr": "Esprili",
+       "uz": "O`tkir zehnli"
+      },
+      {
+       "tr": "Et",
+       "uz": "Go`sht"
+      },
+      {
+       "tr": "Faydalı",
+       "uz": "Foydali"
+      },
+      {
+       "tr": "Gece",
+       "uz": "Tun"
+      },
+      {
+       "tr": "Gerekli",
+       "uz": "Kerakli"
+      },
+      {
+       "tr": "Gökyüzü",
+       "uz": "Osmon"
+      },
+      {
+       "tr": "Gözlük",
+       "uz": "Ko`zoynak"
+      },
+      {
+       "tr": "Güler yüzlü",
+       "uz": "Tabassumli"
+      },
+      {
+       "tr": "Güvenilir",
+       "uz": "İshonchli, xavfsiz"
+      },
+      {
+       "tr": "Harika",
+       "uz": "Ajoyib"
+      },
+      {
+       "tr": "Hayvan",
+       "uz": "Hayvon"
+      },
+      {
+       "tr": "Huzurlu",
+       "uz": "Tinch"
+      },
+      {
+       "tr": "İhtiyaç",
+       "uz": "Ehtiyoj"
+      },
+      {
+       "tr": "İlaç",
+       "uz": "Dori"
+      },
+      {
+       "tr": "İnatçı",
+       "uz": "Qaysar"
+      },
+      {
+       "tr": "İstek",
+       "uz": "İltimos"
+      },
+      {
+       "tr": "Kadayıf",
+       "uz": "Turkcha shirinlik, holvetar"
+      },
+      {
+       "tr": "Kadeh",
+       "uz": "Qadah"
+      },
+      {
+       "tr": "Kap",
+       "uz": "İdish"
+      },
+      {
+       "tr": "Kapıcı",
+       "uz": "Shveytsar"
+      },
+      {
+       "tr": "Karabiber",
+       "uz": "murch"
+      },
+      {
+       "tr": "Sipariş",
+       "uz": "buyurtma"
+      },
+      {
+       "tr": "Site",
+       "uz": "Tarmoq"
+      },
+      {
+       "tr": "Soğan",
+       "uz": "Piyoz"
+      },
+      {
+       "tr": "Soğuk",
+       "uz": "Sovuq"
+      },
+      {
+       "tr": "Sosyal paylaşım",
+       "uz": "İjtimoiy tarmoq"
+      },
+      {
+       "tr": "Su",
+       "uz": "Suv"
+      },
+      {
+       "tr": "Şarap",
+       "uz": "Sharob"
+      },
+      {
+       "tr": "Şeker",
+       "uz": "Konfet"
+      },
+      {
+       "tr": "Şirin",
+       "uz": "Yoqimli"
+      },
+      {
+       "tr": "Şiş",
+       "uz": "Tuman"
+      },
+      {
+       "tr": "Tane",
+       "uz": "Dona"
+      },
+      {
+       "tr": "Tarif",
+       "uz": "Retsept (ovqat uchun)"
+      },
+      {
+       "tr": "Tatlı",
+       "uz": "Shirin"
+      },
+      {
+       "tr": "Tava",
+       "uz": "Tova, idish"
+      },
+      {
+       "tr": "Tavsiye",
+       "uz": "Tavsiya"
+      },
+      {
+       "tr": "Tecrübe",
+       "uz": "tajriba"
+      },
+      {
+       "tr": "Tek",
+       "uz": "Yagona"
+      },
+      {
+       "tr": "Ten",
+       "uz": "Tan, teri"
+      },
+      {
+       "tr": "Tramvay",
+       "uz": "Tramvay"
+      },
+      {
+       "tr": "Tuvalet",
+       "uz": "Tualet, xojatxona"
+      },
+      {
+       "tr": "Tuz",
+       "uz": "Tuz"
+      },
+      {
+       "tr": "uyarı",
+       "uz": "Ogohlantirish"
+      },
+      {
+       "tr": "Veteriner",
+       "uz": "Veterinar"
+      },
+      {
+       "tr": "Yağ",
+       "uz": "Yog`"
+      },
+      {
+       "tr": "Yağmur",
+       "uz": "Yomg`ir"
+      },
+      {
+       "tr": "Yarar",
+       "uz": "Foyda"
+      },
+      {
+       "tr": "Yarışma",
+       "uz": "Musobaqa"
+      },
+      {
+       "tr": "Yaşam",
+       "uz": "Hayot"
+      },
+      {
+       "tr": "Yeterince",
+       "uz": "Yetarlicha"
+      },
+      {
+       "tr": "Yorgan",
+       "uz": "Adyol"
+      },
+      {
+       "tr": "Yumurta",
+       "uz": "Tuxum"
+      },
+      {
+       "tr": "Yüksek",
+       "uz": "Baland"
+      },
+      {
+       "tr": "Zarar",
+       "uz": "Zarar"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Acele etmek",
+       "uz": "Shoshmoq, shoshilmoq"
+      },
+      {
+       "tr": "Anlatmak",
+       "uz": "Tushuntirmoq, gapirib bermoq"
+      },
+      {
+       "tr": "Bağlamak",
+       "uz": "Bog`lamoq, ulamoq"
+      },
+      {
+       "tr": "Basmak",
+       "uz": "Bosmoq"
+      },
+      {
+       "tr": "Beğenmek",
+       "uz": "Yoqtirmoq"
+      },
+      {
+       "tr": "Bıkmak",
+       "uz": "Joniga tegmoq"
+      },
+      {
+       "tr": "Çağırmak",
+       "uz": "Chaqirmoq"
+      },
+      {
+       "tr": "Çekmek",
+       "uz": "Tortmoq"
+      },
+      {
+       "tr": "Çırpmak",
+       "uz": "Aralashtirmoq"
+      },
+      {
+       "tr": "Dizmek",
+       "uz": "Tizib chiqmoq, tekislamoq"
+      },
+      {
+       "tr": "Doğramak",
+       "uz": "To`g`ramoq"
+      },
+      {
+       "tr": "Doldurmak",
+       "uz": "To`ldirmoq"
+      },
+      {
+       "tr": "Dökmek",
+       "uz": "To`kmoq"
+      },
+      {
+       "tr": "Duymak",
+       "uz": "Eshitmoq"
+      },
+      {
+       "tr": "Düşünmek",
+       "uz": "O`ylamoq"
+      },
+      {
+       "tr": "Düzenlemek",
+       "uz": "To`g`irlamoq"
+      },
+      {
+       "tr": "Eklemek",
+       "uz": "Qo`shmoq"
+      },
+      {
+       "tr": "Geç kalmak",
+       "uz": "Kech qolmoq"
+      },
+      {
+       "tr": "Göndermek",
+       "uz": "Yubormoq, jo`natmoq"
+      },
+      {
+       "tr": "Hapşırmak",
+       "uz": "Aksirmoq"
+      },
+      {
+       "tr": "Haşlamak",
+       "uz": "Qaynatib pishirmoq"
+      },
+      {
+       "tr": "Hatırlamak",
+       "uz": "eslamoq"
+      },
+      {
+       "tr": "Karınca",
+       "uz": "Chumoli"
+      },
+      {
+       "tr": "Karizmatik",
+       "uz": "Xarizmatik, jozibador"
+      },
+      {
+       "tr": "Karpuz",
+       "uz": "Tarvuz"
+      },
+      {
+       "tr": "Kase",
+       "uz": "Shtamp, muhr"
+      },
+      {
+       "tr": "Kekik",
+       "uz": "Тимьян, o`simlik, timyan"
+      },
+      {
+       "tr": "Kemer",
+       "uz": "Arka"
+      },
+      {
+       "tr": "Kenar",
+       "uz": "Qirg`oq, chekka"
+      },
+      {
+       "tr": "Kısım",
+       "uz": "Qism"
+      },
+      {
+       "tr": "Kıyma",
+       "uz": "Qiyma"
+      },
+      {
+       "tr": "Kızıl",
+       "uz": "Qizil"
+      },
+      {
+       "tr": "Kilogram",
+       "uz": "Kilogram"
+      },
+      {
+       "tr": "Klinik",
+       "uz": "Klinika"
+      },
+      {
+       "tr": "Konu",
+       "uz": "Mavzu"
+      },
+      {
+       "tr": "Korkak",
+       "uz": "Qo`rqoq"
+      },
+      {
+       "tr": "Köfte",
+       "uz": "Turkcha taom, frikadelki"
+      },
+      {
+       "tr": "Kurabiye",
+       "uz": "Pechenye"
+      },
+      {
+       "tr": "Kuşbaşı",
+       "uz": "Yoyilgan, to`g`ralgan go`sht"
+      },
+      {
+       "tr": "Kutsal",
+       "uz": "Muqaddas"
+      },
+      {
+       "tr": "Küp",
+       "uz": "Kubik, kub"
+      },
+      {
+       "tr": "Lahmacun",
+       "uz": "Turkcha taom, pide"
+      },
+      {
+       "tr": "Levha",
+       "uz": "Plastinka"
+      },
+      {
+       "tr": "Lezzetli",
+       "uz": "Mazali"
+      },
+      {
+       "tr": "Lokum",
+       "uz": "Turkcha shirinlik, marmelad"
+      },
+      {
+       "tr": "Makarna",
+       "uz": "Makaron"
+      },
+      {
+       "tr": "Malzame",
+       "uz": "Masalliq"
+      },
+      {
+       "tr": "Maydanoz",
+       "uz": "Petrushka"
+      },
+      {
+       "tr": "Menü",
+       "uz": "Menyu"
+      },
+      {
+       "tr": "Meraklı",
+       "uz": "qiziqarli"
+      },
+      {
+       "tr": "Meslek",
+       "uz": "Kasb"
+      },
+      {
+       "tr": "Mesut",
+       "uz": "Baxtiyor"
+      },
+      {
+       "tr": "Miktar",
+       "uz": "Miqdor"
+      },
+      {
+       "tr": "Mutlaka",
+       "uz": "Albatta"
+      },
+      {
+       "tr": "Müşteri",
+       "uz": "Mijoz"
+      },
+      {
+       "tr": "Müze",
+       "uz": "Muzey"
+      },
+      {
+       "tr": "Naz",
+       "uz": "Noz"
+      },
+      {
+       "tr": "Neşeli",
+       "uz": "Xursand"
+      },
+      {
+       "tr": "Otopark",
+       "uz": "Avtopark, stoyanka"
+      },
+      {
+       "tr": "Öneri",
+       "uz": "taklif"
+      },
+      {
+       "tr": "Patlıcan",
+       "uz": "Baqlajon"
+      },
+      {
+       "tr": "Perde",
+       "uz": "Parda"
+      },
+      {
+       "tr": "Peynir",
+       "uz": "Pishloq"
+      },
+      {
+       "tr": "Pizza",
+       "uz": "Pitsa"
+      },
+      {
+       "tr": "Porsiyon",
+       "uz": "Portsiya"
+      },
+      {
+       "tr": "Profil",
+       "uz": "Profil"
+      },
+      {
+       "tr": "Prospektüs",
+       "uz": "Prospekt"
+      },
+      {
+       "tr": "Rüya",
+       "uz": "Tush"
+      },
+      {
+       "tr": "Rüzgar",
+       "uz": "Shamol"
+      },
+      {
+       "tr": "Sabır",
+       "uz": "Sabr"
+      },
+      {
+       "tr": "Sakal",
+       "uz": "soqol"
+      },
+      {
+       "tr": "Salata",
+       "uz": "Salat"
+      },
+      {
+       "tr": "Salyangoz",
+       "uz": "Улитка, shilliqqurt"
+      },
+      {
+       "tr": "Saman",
+       "uz": "Somon"
+      },
+      {
+       "tr": "Saygı",
+       "uz": "Hurmat"
+      },
+      {
+       "tr": "Sevgi",
+       "uz": "Sevgi"
+      },
+      {
+       "tr": "Sevimli",
+       "uz": "Sevimli, aziz"
+      },
+      {
+       "tr": "Sıvı",
+       "uz": "Suyuqlik"
+      },
+      {
+       "tr": "Sifon",
+       "uz": "Sifon"
+      },
+      {
+       "tr": "sigara",
+       "uz": "Sigaret"
+      },
+      {
+       "tr": "Ismarlamak",
+       "uz": "Buyurtma"
+      },
+      {
+       "tr": "İhmal etmek",
+       "uz": "E’tiborsizlik qilish"
+      },
+      {
+       "tr": "İlave etmek",
+       "uz": "Qo`shmoq"
+      },
+      {
+       "tr": "İlerlemek",
+       "uz": "Oldinlab ketmoq"
+      },
+      {
+       "tr": "İsyan etmek",
+       "uz": "İsyon qilmoq"
+      },
+      {
+       "tr": "İşaretlemek",
+       "uz": "İshora qilmoq, belgilamoq"
+      },
+      {
+       "tr": "Kavga etmek",
+       "uz": "Janjal qilmoq"
+      },
+      {
+       "tr": "Kaynatmak",
+       "uz": "qaynatmoq"
+      },
+      {
+       "tr": "Kızartmak",
+       "uz": "Qo`vurmoq"
+      },
+      {
+       "tr": "Kızmak",
+       "uz": "Jahli chiqmoq"
+      },
+      {
+       "tr": "Kopmak",
+       "uz": "Uzmoq"
+      },
+      {
+       "tr": "Oluşturmak",
+       "uz": "Yaratmoq, hosil qilmoq"
+      },
+      {
+       "tr": "Önermek",
+       "uz": "Taklif qilmoq"
+      },
+      {
+       "tr": "Özen göstermek",
+       "uz": "E`tibor qaratmoq,g`amxo`rlik qilmoq"
+      },
+      {
+       "tr": "Park etmek",
+       "uz": "parkovka qilish"
+      },
+      {
+       "tr": "Pişirmek",
+       "uz": "Pishirmoq"
+      },
+      {
+       "tr": "Rendelemek",
+       "uz": "Qirg`ichdan chiqarmoq"
+      },
+      {
+       "tr": "Saklamak",
+       "uz": "Berkitmoq"
+      },
+      {
+       "tr": "Sıralamak",
+       "uz": "Saralamoq"
+      },
+      {
+       "tr": "Süslemek",
+       "uz": "Bezash"
+      },
+      {
+       "tr": "Süzmek",
+       "uz": "Suzmoq"
+      },
+      {
+       "tr": "Tamamlamak",
+       "uz": "Tamomlamoq"
+      },
+      {
+       "tr": "Tarif etmek",
+       "uz": "Tariflamoq"
+      },
+      {
+       "tr": "Tükenmek",
+       "uz": "İste’mol qilmoq"
+      },
+      {
+       "tr": "Usanmak",
+       "uz": "Charchamoq"
+      },
+      {
+       "tr": "Uzatmak",
+       "uz": "Uzatmoq"
+      },
+      {
+       "tr": "Yağmak",
+       "uz": "Yog’moq"
+      },
+      {
+       "tr": "İtmek",
+       "uz": "İtarish"
+      },
+      {
+       "tr": "Merak etmek",
+       "uz": "Qiziqmoq, xavotir olmoq"
+      },
+      {
+       "tr": "Numaralandırmak",
+       "uz": "Raqamlash"
+      },
+      {
+       "tr": "Silmek",
+       "uz": "O`chirmoq"
+      },
+      {
+       "tr": "Yalan söylemek",
+       "uz": "Yolg`on gapirmoq"
+      },
+      {
+       "tr": "Yerleştirmek",
+       "uz": "Joylashtirmoq"
+      }
+     ]
+    },
+    {
+     "key": "kalip ifadeler",
+     "name": "Kalıp İfadeler",
+     "nameUz": "Iboralar",
+     "words": [
+      {
+       "tr": "Afiyet olsun",
+       "uz": "Yoqimli ishtaha"
+      },
+      {
+       "tr": "Çok yaşayın",
+       "uz": "Sog’ bo’ling"
+      },
+      {
+       "tr": "Elinize sağlık",
+       "uz": "Qo’ling dard ko’rmasin"
+      },
+      {
+       "tr": "Hayırlı olsun",
+       "uz": "Xayrli bo’lsin"
+      },
+      {
+       "tr": "Kolay gelsin",
+       "uz": "Hormang, charchamang"
+      }
+     ]
+    }
+   ],
+   "total": 208
+  },
+  {
+   "id": "A2-u2",
+   "file": "Ünite 2. yeni kelimeler.docx",
+   "level": "A2",
+   "number": 2,
+   "title": "Ünite 2",
+   "subtitle": "A2",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Alaycı",
+       "uz": "Beodob"
+      },
+      {
+       "tr": "Alışkanlık",
+       "uz": "Odat"
+      },
+      {
+       "tr": "Alkol",
+       "uz": "Spirtli ichimliklar"
+      },
+      {
+       "tr": "Ampul",
+       "uz": "Lampochka"
+      },
+      {
+       "tr": "As",
+       "uz": "Ustasi, eng zo`ri"
+      },
+      {
+       "tr": "Ay",
+       "uz": "Oy"
+      },
+      {
+       "tr": "Bağımlık",
+       "uz": "Qaramlik"
+      },
+      {
+       "tr": "Baklagil",
+       "uz": "Dukkakli"
+      },
+      {
+       "tr": "Beslenme",
+       "uz": "Oziqlanish"
+      },
+      {
+       "tr": "Beyaz",
+       "uz": "Oq"
+      },
+      {
+       "tr": "Bilgin",
+       "uz": "Olim"
+      },
+      {
+       "tr": "Bolca",
+       "uz": "Ko`p"
+      },
+      {
+       "tr": "Bordo",
+       "uz": "To`q qizil, бордовый"
+      },
+      {
+       "tr": "Buluş",
+       "uz": "Kashfiyot, topilma"
+      },
+      {
+       "tr": "Cömert",
+       "uz": "Saxiy"
+      },
+      {
+       "tr": "Çizgi film",
+       "uz": "Multfilm"
+      },
+      {
+       "tr": "Demokrasi",
+       "uz": "Demokratiya"
+      },
+      {
+       "tr": "Deney",
+       "uz": "Tajriba"
+      },
+      {
+       "tr": "Derbi",
+       "uz": "Derbi, otlar musobaqasi"
+      },
+      {
+       "tr": "Dük",
+       "uz": "Gersog"
+      },
+      {
+       "tr": "Düşes",
+       "uz": "Gersogina"
+      },
+      {
+       "tr": "Egzersiz",
+       "uz": "Mashq, badantarbiya"
+      },
+      {
+       "tr": "Ekonomi",
+       "uz": "İqtisod"
+      },
+      {
+       "tr": "Emekli",
+       "uz": "Nafaqaxo`r"
+      },
+      {
+       "tr": "Erişkin",
+       "uz": "Voyaga yetgan"
+      },
+      {
+       "tr": "Esnek",
+       "uz": "Moslashuvchan"
+      },
+      {
+       "tr": "Fare",
+       "uz": "Sichqon"
+      },
+      {
+       "tr": "Fırsatçı",
+       "uz": "Opportunist, epchil"
+      },
+      {
+       "tr": "Gazetecilik",
+       "uz": "Jurnalistika"
+      },
+      {
+       "tr": "Gece",
+       "uz": "Tun"
+      },
+      {
+       "tr": "Gündüz",
+       "uz": "Kun"
+      },
+      {
+       "tr": "Hayalci",
+       "uz": "Hayolparast"
+      },
+      {
+       "tr": "Hırsız",
+       "uz": "O`g`ri"
+      },
+      {
+       "tr": "Hizmetçi",
+       "uz": "xizmatkor"
+      },
+      {
+       "tr": "Hükümdar",
+       "uz": "Hukmdor"
+      },
+      {
+       "tr": "Işın",
+       "uz": "Nur"
+      },
+      {
+       "tr": "İdareci",
+       "uz": "Menejer"
+      },
+      {
+       "tr": "İhtiyaç",
+       "uz": "Ehtiyoj"
+      },
+      {
+       "tr": "İletişim",
+       "uz": "Aloqa"
+      },
+      {
+       "tr": "İlginç",
+       "uz": "Qiziqarli"
+      },
+      {
+       "tr": "İlk",
+       "uz": "İlk, birinchi"
+      },
+      {
+       "tr": "İskelet",
+       "uz": "Skelet"
+      },
+      {
+       "tr": "Kahkaha",
+       "uz": "Kulgu"
+      },
+      {
+       "tr": "Kahraman",
+       "uz": "Qahramon"
+      },
+      {
+       "tr": "Kalsiyum",
+       "uz": "Kalsiy"
+      },
+      {
+       "tr": "Kanat",
+       "uz": "Qanot"
+      },
+      {
+       "tr": "Kaplumbağa",
+       "uz": "Toshbaqa"
+      },
+      {
+       "tr": "Kemik",
+       "uz": "Suyak"
+      },
+      {
+       "tr": "Kırmızı",
+       "uz": "Qizil"
+      },
+      {
+       "tr": "Kolesterol",
+       "uz": "Xolesterin"
+      },
+      {
+       "tr": "Komutan",
+       "uz": "Qo`mondon"
+      },
+      {
+       "tr": "Konforlu",
+       "uz": "Qulay"
+      },
+      {
+       "tr": "Kongre",
+       "uz": "Kongress"
+      },
+      {
+       "tr": "Koyun",
+       "uz": "Qo`y"
+      },
+      {
+       "tr": "Kristal",
+       "uz": "Kristal"
+      },
+      {
+       "tr": "Kurnaz",
+       "uz": "Ayyor"
+      },
+      {
+       "tr": "Kuruyemiş",
+       "uz": "Quruq meva, yong`oqlar"
+      },
+      {
+       "tr": "Kültür",
+       "uz": "Madaniyat"
+      },
+      {
+       "tr": "Lacivert",
+       "uz": "To`q ko`k rang"
+      },
+      {
+       "tr": "Lakap",
+       "uz": "Laqab"
+      },
+      {
+       "tr": "Lodos",
+       "uz": "Lodos shamoli, janubi-g`arbiy shamol"
+      },
+      {
+       "tr": "Madde",
+       "uz": "Modda"
+      },
+      {
+       "tr": "Magazin",
+       "uz": "Jurnal"
+      },
+      {
+       "tr": "Mağaza",
+       "uz": "Magazin"
+      },
+      {
+       "tr": "Meşgul",
+       "uz": "Mashg`ul, band"
+      },
+      {
+       "tr": "Metre",
+       "uz": "Metr"
+      },
+      {
+       "tr": "Mizac",
+       "uz": "Mijoz, temperament"
+      },
+      {
+       "tr": "Mucit",
+       "uz": "İxtirochi"
+      },
+      {
+       "tr": "Muhteşem",
+       "uz": "Ajoyib"
+      },
+      {
+       "tr": "Müdür",
+       "uz": "Mudir, menejer"
+      },
+      {
+       "tr": "Müfettiş",
+       "uz": "Tekshiruv"
+      },
+      {
+       "tr": "Müze",
+       "uz": "Muzey"
+      },
+      {
+       "tr": "Nargile",
+       "uz": "Kolyan"
+      },
+      {
+       "tr": "Okyanus",
+       "uz": "Okean"
+      },
+      {
+       "tr": "Ödül",
+       "uz": "Mukofot"
+      },
+      {
+       "tr": "Politika",
+       "uz": "Siyosat"
+      },
+      {
+       "tr": "Protein",
+       "uz": "protein"
+      },
+      {
+       "tr": "Puan",
+       "uz": "baho"
+      },
+      {
+       "tr": "Radyo dalgası",
+       "uz": "Radio to`lqin"
+      },
+      {
+       "tr": "Reçete",
+       "uz": "Retsept"
+      },
+      {
+       "tr": "Romancı",
+       "uz": "Yozuvchi"
+      },
+      {
+       "tr": "Rütbe",
+       "uz": "Rutba"
+      },
+      {
+       "tr": "Saf",
+       "uz": "Toza"
+      },
+      {
+       "tr": "Sahil",
+       "uz": "Sohil"
+      },
+      {
+       "tr": "Saniye",
+       "uz": "Soniya"
+      },
+      {
+       "tr": "Sarı",
+       "uz": "Sariq"
+      },
+      {
+       "tr": "Satış",
+       "uz": "sotish"
+      },
+      {
+       "tr": "Sene",
+       "uz": "Yil"
+      },
+      {
+       "tr": "Sıradan",
+       "uz": "Oddiy"
+      },
+      {
+       "tr": "Sinyal",
+       "uz": "Signal"
+      },
+      {
+       "tr": "Siyah",
+       "uz": "Qora"
+      },
+      {
+       "tr": "Şövalye",
+       "uz": "Ritsar"
+      },
+      {
+       "tr": "Takım",
+       "uz": "Jamoa, o`rnatish"
+      },
+      {
+       "tr": "Takma",
+       "uz": "Taxallus"
+      },
+      {
+       "tr": "Tavan",
+       "uz": "Potolok, shift"
+      },
+      {
+       "tr": "Tavşan",
+       "uz": "Quyon"
+      },
+      {
+       "tr": "Teleskop",
+       "uz": "Teleskop"
+      },
+      {
+       "tr": "Telsiz",
+       "uz": "Radio"
+      },
+      {
+       "tr": "Toplantı",
+       "uz": "Yig`ilish, majlis"
+      },
+      {
+       "tr": "Tür",
+       "uz": "Tur, xil"
+      },
+      {
+       "tr": "Unvan",
+       "uz": "Unvon"
+      },
+      {
+       "tr": "Usta",
+       "uz": "Usta,professional, ekspert"
+      },
+      {
+       "tr": "Vasita",
+       "uz": "Vosita"
+      },
+      {
+       "tr": "Yazar",
+       "uz": "Yozuvchi"
+      },
+      {
+       "tr": "Yolculuk",
+       "uz": "Sayohat"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Affetmek",
+       "uz": "Kechirmoq"
+      },
+      {
+       "tr": "Bastırmak",
+       "uz": "Bostirmoq"
+      },
+      {
+       "tr": "İcat etmek",
+       "uz": "İxtiro qilmoq"
+      },
+      {
+       "tr": "İlerlemek",
+       "uz": "Oldinga yurmoq, oldinlamoq"
+      },
+      {
+       "tr": "İncelemek",
+       "uz": "Tahlil qilish, tekshirish"
+      },
+      {
+       "tr": "Kazanmak",
+       "uz": "Qozonmoq, erishmoq"
+      },
+      {
+       "tr": "Keşfetmek",
+       "uz": "Kashf qilmoq"
+      },
+      {
+       "tr": "Mezun olmak",
+       "uz": "Bitirmoq"
+      },
+      {
+       "tr": "yayımlamak",
+       "uz": "Nashr qilmoq"
+      }
+     ]
+    }
+   ],
+   "total": 114
+  },
+  {
+   "id": "A2-u3",
+   "file": "Ünite 3. yeni kelimeler.docx",
+   "level": "A2",
+   "number": 3,
+   "title": "Ünite 3",
+   "subtitle": "A2",
+   "categories": [
+    {
+     "key": "kelimeler",
+     "name": "Yeni Kelimeler",
+     "nameUz": "Yangi soʻzlar",
+     "words": [
+      {
+       "tr": "Ahşap",
+       "uz": "Yog`och, tahta"
+      },
+      {
+       "tr": "Aniden",
+       "uz": "Birdan, to`satdan"
+      },
+      {
+       "tr": "Asker",
+       "uz": "Askar"
+      },
+      {
+       "tr": "Avrupa",
+       "uz": "Yevropa"
+      },
+      {
+       "tr": "Baharatlı",
+       "uz": "Ziravorli"
+      },
+      {
+       "tr": "Bal",
+       "uz": "Bol, asal"
+      },
+      {
+       "tr": "Bambu",
+       "uz": "Bambuk"
+      },
+      {
+       "tr": "Başbakan",
+       "uz": "Bosh vazir"
+      },
+      {
+       "tr": "Belediye",
+       "uz": "Hokimiyat"
+      },
+      {
+       "tr": "Bölge",
+       "uz": "Mintaqa, viloyat"
+      },
+      {
+       "tr": "Bülbül",
+       "uz": "Bulbul"
+      },
+      {
+       "tr": "Çadır",
+       "uz": "Chodir"
+      },
+      {
+       "tr": "Çekirdek",
+       "uz": "Yadro"
+      },
+      {
+       "tr": "Çevre",
+       "uz": "muhit"
+      },
+      {
+       "tr": "Çiftçi",
+       "uz": "Dehqon"
+      },
+      {
+       "tr": "Dağ",
+       "uz": "Tog`"
+      },
+      {
+       "tr": "Dışkı",
+       "uz": "Najas, axlat"
+      },
+      {
+       "tr": "Dizi",
+       "uz": "Serial"
+      },
+      {
+       "tr": "Doğum günü",
+       "uz": "Tug`ilgan kun"
+      },
+      {
+       "tr": "Döner",
+       "uz": "Donar, shaurma"
+      },
+      {
+       "tr": "Dürüst",
+       "uz": "Halol"
+      },
+      {
+       "tr": "Eldiven",
+       "uz": "Qo`lqop"
+      },
+      {
+       "tr": "Eş",
+       "uz": "Turmush o`rtoq"
+      },
+      {
+       "tr": "Etkinlik",
+       "uz": "Faoliyat"
+      },
+      {
+       "tr": "Ev planı",
+       "uz": "Uy chizmasi"
+      },
+      {
+       "tr": "Fal",
+       "uz": "Folbinlik"
+      },
+      {
+       "tr": "Faydalı",
+       "uz": "Foydali"
+      },
+      {
+       "tr": "Ferah",
+       "uz": "Keng"
+      },
+      {
+       "tr": "Festival",
+       "uz": "Festival"
+      },
+      {
+       "tr": "Gelenek",
+       "uz": "An’ana"
+      },
+      {
+       "tr": "Gösteri",
+       "uz": "Tomosha, ko`rgazma"
+      },
+      {
+       "tr": "Güneşli",
+       "uz": "Quyoshli"
+      },
+      {
+       "tr": "Harika",
+       "uz": "Ajoyib"
+      },
+      {
+       "tr": "Hastane",
+       "uz": "Kasalxona"
+      },
+      {
+       "tr": "Hava",
+       "uz": "Havo"
+      },
+      {
+       "tr": "Hayal",
+       "uz": "Orzu"
+      },
+      {
+       "tr": "Hediye",
+       "uz": "Sovg`a"
+      },
+      {
+       "tr": "Ilık",
+       "uz": "İliq"
+      },
+      {
+       "tr": "İcat",
+       "uz": "Kashfiyot"
+      },
+      {
+       "tr": "İnatçı",
+       "uz": "Qaysar"
+      },
+      {
+       "tr": "İzleyici",
+       "uz": "Tomoshabin"
+      },
+      {
+       "tr": "Jimnastik",
+       "uz": "Gimnastika"
+      },
+      {
+       "tr": "Kaban",
+       "uz": "Palto"
+      },
+      {
+       "tr": "Kampanya",
+       "uz": "Taklif"
+      },
+      {
+       "tr": "Kar",
+       "uz": "Foyda"
+      },
+      {
+       "tr": "Katedral",
+       "uz": "İbodatxona"
+      },
+      {
+       "tr": "Kazak",
+       "uz": "Sviter"
+      },
+      {
+       "tr": "Kıyı",
+       "uz": "Qirg`oq"
+      },
+      {
+       "tr": "Kıymet",
+       "uz": "Qiymat"
+      },
+      {
+       "tr": "Klozet",
+       "uz": "Palto"
+      },
+      {
+       "tr": "Mahalli",
+       "uz": "Tualet"
+      },
+      {
+       "tr": "Makyaj",
+       "uz": "Makyaj"
+      },
+      {
+       "tr": "Merasim",
+       "uz": "Marosim"
+      },
+      {
+       "tr": "Mercimek",
+       "uz": "Yasmiq, чечевица"
+      },
+      {
+       "tr": "Mesai",
+       "uz": "Ish"
+      },
+      {
+       "tr": "Metrekare",
+       "uz": "Kvadrat metr"
+      },
+      {
+       "tr": "Mısır",
+       "uz": "Makkajo`xori"
+      },
+      {
+       "tr": "Mimar",
+       "uz": "arxitektor"
+      },
+      {
+       "tr": "Gerçekleştirmek",
+       "uz": "Ro`yobga chiqarmoq"
+      },
+      {
+       "tr": "Gezmek",
+       "uz": "Aylanmoq, kezmoq"
+      },
+      {
+       "tr": "Görüşmek",
+       "uz": "Ko`rishmoq"
+      },
+      {
+       "tr": "Güneşlenmek",
+       "uz": "Quyoshda toblanmoq"
+      },
+      {
+       "tr": "İkna etmek",
+       "uz": "Ko`ndirmoq"
+      },
+      {
+       "tr": "İptal olmak",
+       "uz": "Bekor bo`lmoq"
+      },
+      {
+       "tr": "Kaçmak",
+       "uz": "Qochmoq"
+      },
+      {
+       "tr": "Karar vermek",
+       "uz": "Qaror qilmoq"
+      },
+      {
+       "tr": "Kartopu oynamak",
+       "uz": "Qor o`ynamak"
+      },
+      {
+       "tr": "Mobilya",
+       "uz": "Mebel"
+      },
+      {
+       "tr": "Nehir",
+       "uz": "Daryo"
+      },
+      {
+       "tr": "Nemli",
+       "uz": "Nam"
+      },
+      {
+       "tr": "Oğul",
+       "uz": "O`g`il"
+      },
+      {
+       "tr": "Okyanus",
+       "uz": "Okean"
+      },
+      {
+       "tr": "Ödeme",
+       "uz": "To`lov"
+      },
+      {
+       "tr": "Padişah",
+       "uz": "Podshoh"
+      },
+      {
+       "tr": "Pamuk",
+       "uz": "Paxta"
+      },
+      {
+       "tr": "Piramit",
+       "uz": "Piramida"
+      },
+      {
+       "tr": "Plyaj",
+       "uz": "Plyaj"
+      },
+      {
+       "tr": "Robot",
+       "uz": "Robot"
+      },
+      {
+       "tr": "Romantizma",
+       "uz": "Romantika"
+      },
+      {
+       "tr": "Sağanak",
+       "uz": "Jala, kuchli yomg`ir"
+      },
+      {
+       "tr": "Sahil",
+       "uz": "Plyaj"
+      },
+      {
+       "tr": "Sakal",
+       "uz": "Soqol"
+      },
+      {
+       "tr": "Satılık",
+       "uz": "Sotuvda, sotiladigan"
+      },
+      {
+       "tr": "Saygı",
+       "uz": "Hurmat"
+      },
+      {
+       "tr": "Seçim",
+       "uz": "Tanlov"
+      },
+      {
+       "tr": "Semt",
+       "uz": "Tuman"
+      },
+      {
+       "tr": "Serin",
+       "uz": "Salqin"
+      },
+      {
+       "tr": "Sınav",
+       "uz": "İmtihon"
+      },
+      {
+       "tr": "Sirk",
+       "uz": "Sirk, цирк"
+      },
+      {
+       "tr": "Sisli",
+       "uz": "Tumanli"
+      },
+      {
+       "tr": "Soslu",
+       "uz": "Sous, qayla"
+      },
+      {
+       "tr": "Sosyal",
+       "uz": "İjtimoiy"
+      },
+      {
+       "tr": "Sörf",
+       "uz": "Syorfing"
+      },
+      {
+       "tr": "Stant",
+       "uz": "Stent, vitrina, peshtaxta"
+      },
+      {
+       "tr": "Şelale",
+       "uz": "Sharshara"
+      },
+      {
+       "tr": "Tapınak",
+       "uz": "Ma’bad, ma’bud"
+      },
+      {
+       "tr": "Tarla",
+       "uz": "Yer, maydon"
+      },
+      {
+       "tr": "Taş",
+       "uz": "Tosh"
+      },
+      {
+       "tr": "Torun",
+       "uz": "Nabira"
+      },
+      {
+       "tr": "Tur",
+       "uz": "Sayohat"
+      },
+      {
+       "tr": "Tuş",
+       "uz": "Knopka"
+      },
+      {
+       "tr": "Vaat",
+       "uz": "Va’da"
+      },
+      {
+       "tr": "Vakit",
+       "uz": "Vaqt"
+      },
+      {
+       "tr": "Valiz",
+       "uz": "Chamadon"
+      },
+      {
+       "tr": "Vize",
+       "uz": "Viza"
+      },
+      {
+       "tr": "Yağmurluk",
+       "uz": "Plash"
+      },
+      {
+       "tr": "Yanardağ",
+       "uz": "Palto"
+      },
+      {
+       "tr": "Yoğunluk",
+       "uz": "Vulqon"
+      },
+      {
+       "tr": "Yosun",
+       "uz": "Mox"
+      },
+      {
+       "tr": "Yöresel",
+       "uz": "Mintaqaviy"
+      },
+      {
+       "tr": "Yurt",
+       "uz": "Yurt, yotoqxona"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Anlaşmak",
+       "uz": "Kelishmoq"
+      },
+      {
+       "tr": "Artmak",
+       "uz": "Ko`paymoq, ortmoq"
+      },
+      {
+       "tr": "Azalmak",
+       "uz": "Kamaymoq"
+      },
+      {
+       "tr": "Balık tutmak",
+       "uz": "Baliq ovlamoq, tutmoq"
+      },
+      {
+       "tr": "Boyamak",
+       "uz": "Bo`yamoq"
+      },
+      {
+       "tr": "Çağırmak",
+       "uz": "Chaqirmoq"
+      },
+      {
+       "tr": "Çalıştırmak",
+       "uz": "İshlatmoq, yurgizmoq"
+      },
+      {
+       "tr": "Çizmek",
+       "uz": "Chizmoq"
+      },
+      {
+       "tr": "Dalmak",
+       "uz": "Sho`ng`imoq"
+      },
+      {
+       "tr": "Değiştirmek",
+       "uz": "Almashtirmoq, o`zgartirmoq"
+      },
+      {
+       "tr": "Düzenlemek",
+       "uz": "Tashkil qilmoq, to`g`irlamoq"
+      },
+      {
+       "tr": "Geçirmek",
+       "uz": "O`tkazmoq"
+      },
+      {
+       "tr": "Geçmek",
+       "uz": "O`tmoq"
+      },
+      {
+       "tr": "Katılmak",
+       "uz": "Qatnashmoq, qo`shilmoq"
+      },
+      {
+       "tr": "Kayak yapmak",
+       "uz": "Chang`i uchmoq"
+      },
+      {
+       "tr": "Kürek çekmek",
+       "uz": "Eshkash eshmoq"
+      },
+      {
+       "tr": "Tahmin etmek",
+       "uz": "Taxmin qilmoq"
+      },
+      {
+       "tr": "Takmak",
+       "uz": "Taqmoq"
+      },
+      {
+       "tr": "Tıraş olmak",
+       "uz": "Soqol olmoq"
+      },
+      {
+       "tr": "tükenmek",
+       "uz": "Tugab qolmoq, tugamoq"
+      }
+     ]
+    }
+   ],
+   "total": 131
+  },
+  {
+   "id": "A2-u4",
+   "file": "Ünite 4. yeni kelimeler.docx",
+   "level": "A2",
+   "number": 4,
+   "title": "Ünite 4",
+   "subtitle": "A2",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Ambulans",
+       "uz": "Tez yordam mashinasi"
+      },
+      {
+       "tr": "Asansör",
+       "uz": "Lift"
+      },
+      {
+       "tr": "Bilmece",
+       "uz": "Topishmoq"
+      },
+      {
+       "tr": "Cankurtaran",
+       "uz": "Qutqaruvchi"
+      },
+      {
+       "tr": "Cin",
+       "uz": "Jin"
+      },
+      {
+       "tr": "Deve",
+       "uz": "Tuya"
+      },
+      {
+       "tr": "Diyar",
+       "uz": "Yer"
+      },
+      {
+       "tr": "Efsane",
+       "uz": "Afsona"
+      },
+      {
+       "tr": "Evliya",
+       "uz": "Avliyo"
+      },
+      {
+       "tr": "Fakir",
+       "uz": "Kambag`al"
+      },
+      {
+       "tr": "Fıkra",
+       "uz": "Latifa"
+      },
+      {
+       "tr": "Fırtına",
+       "uz": "Bo`ron, to`fon"
+      },
+      {
+       "tr": "Hayran",
+       "uz": "Muhlis"
+      },
+      {
+       "tr": "İnşaat",
+       "uz": "İnshoot"
+      },
+      {
+       "tr": "İşçi",
+       "uz": "İshchi"
+      },
+      {
+       "tr": "İtfaiyeci",
+       "uz": "O`t o`chiruvchi"
+      },
+      {
+       "tr": "Kasaba",
+       "uz": "Shaharcha"
+      },
+      {
+       "tr": "Kasiyer",
+       "uz": "Kassir"
+      },
+      {
+       "tr": "Kaval",
+       "uz": "Quvur"
+      },
+      {
+       "tr": "Kıtlık",
+       "uz": "Ochlik"
+      },
+      {
+       "tr": "Konfeksiyon",
+       "uz": "To`qimachilik"
+      },
+      {
+       "tr": "Köçek",
+       "uz": "Raqqos, кечек"
+      },
+      {
+       "tr": "Macera",
+       "uz": "Sarguzasht"
+      },
+      {
+       "tr": "Merdiven",
+       "uz": "Zina"
+      },
+      {
+       "tr": "Metrobüs",
+       "uz": "Metrobus"
+      },
+      {
+       "tr": "Mimar",
+       "uz": "Arxitektor"
+      },
+      {
+       "tr": "Müşteri",
+       "uz": "Mijoz"
+      },
+      {
+       "tr": "Nişanlı",
+       "uz": "Unashtirilgan"
+      },
+      {
+       "tr": "Ölümsüz",
+       "uz": "O`lmas"
+      },
+      {
+       "tr": "Ölümsüzlük",
+       "uz": "Boqiylik"
+      },
+      {
+       "tr": "Padişah",
+       "uz": "Podshoh"
+      },
+      {
+       "tr": "Pansiyon",
+       "uz": "Yotoqxona"
+      },
+      {
+       "tr": "Santral görevlisi",
+       "uz": "Kommutator, ishchi"
+      },
+      {
+       "tr": "Sebze",
+       "uz": "Sabzavot"
+      },
+      {
+       "tr": "Sedefkar",
+       "uz": "Duradgor"
+      },
+      {
+       "tr": "Sihirli",
+       "uz": "Sehrli"
+      },
+      {
+       "tr": "Sürü",
+       "uz": "Poda"
+      },
+      {
+       "tr": "Tarla",
+       "uz": "Yer, maydon"
+      },
+      {
+       "tr": "Tas",
+       "uz": "İdish, tog`ora"
+      },
+      {
+       "tr": "Tembel",
+       "uz": "Erinchoq"
+      },
+      {
+       "tr": "Tepe",
+       "uz": "Tepalik"
+      },
+      {
+       "tr": "Tezgahtar",
+       "uz": "Sotuvchi, ishchi"
+      },
+      {
+       "tr": "Uslu",
+       "uz": "Yaxshi xulqli"
+      },
+      {
+       "tr": "Vestiyer",
+       "uz": "Garderob"
+      },
+      {
+       "tr": "Veteriner",
+       "uz": "Veterinar"
+      },
+      {
+       "tr": "Yaramaz",
+       "uz": "Sho`x"
+      },
+      {
+       "tr": "Yem",
+       "uz": "Yem"
+      },
+      {
+       "tr": "Yönetmen",
+       "uz": "Rejissor, ish boshqaruvchi"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Alay etmek",
+       "uz": "Masxara qilmoq"
+      },
+      {
+       "tr": "Anırmak",
+       "uz": "Baqirmoq"
+      },
+      {
+       "tr": "Boğulmak",
+       "uz": "Cho`kmoq"
+      },
+      {
+       "tr": "Bozulmak",
+       "uz": "Buzilmoq"
+      },
+      {
+       "tr": "Fethetmek",
+       "uz": "Zabt etmoq"
+      },
+      {
+       "tr": "Fışkırmak",
+       "uz": "Toshmoq"
+      },
+      {
+       "tr": "İncitmek",
+       "uz": "Hafa qilmoq"
+      },
+      {
+       "tr": "Oda tutmak",
+       "uz": "İjaraga xona olish"
+      },
+      {
+       "tr": "Şaşırmak",
+       "uz": "Hayron qolmoq"
+      },
+      {
+       "tr": "Şımartmak",
+       "uz": "Erkalatmoq"
+      },
+      {
+       "tr": "Yetiştirmek",
+       "uz": "yetkazib qo`ymoq, bermoq"
+      }
+     ]
+    }
+   ],
+   "total": 59
+  },
+  {
+   "id": "A2-u5",
+   "file": "Ünite 5. yeni kelimeler.docx",
+   "level": "A2",
+   "number": 5,
+   "title": "Ünite 5",
+   "subtitle": "A2",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Afiş",
+       "uz": "Afisha, banner"
+      },
+      {
+       "tr": "Alan",
+       "uz": "Soha, hudud"
+      },
+      {
+       "tr": "Alışkanlık",
+       "uz": "Odat"
+      },
+      {
+       "tr": "Animasyon",
+       "uz": "Animatsiya"
+      },
+      {
+       "tr": "Aşçı",
+       "uz": "Oshpaz"
+      },
+      {
+       "tr": "Atmosfer",
+       "uz": "Atmosfera"
+      },
+      {
+       "tr": "Banka kartı",
+       "uz": "Bank kartasi, plastik"
+      },
+      {
+       "tr": "Belgesel",
+       "uz": "Hujjatli"
+      },
+      {
+       "tr": "Biber",
+       "uz": "Qalampir"
+      },
+      {
+       "tr": "Bilim kurgu",
+       "uz": "Fantastika"
+      },
+      {
+       "tr": "Bilimsel gerçek",
+       "uz": "İlmiy fakt"
+      },
+      {
+       "tr": "Bulmaca",
+       "uz": "Boshqotirma, krossvord"
+      },
+      {
+       "tr": "Bulut",
+       "uz": "Bulut"
+      },
+      {
+       "tr": "Cisim",
+       "uz": "Obyekt"
+      },
+      {
+       "tr": "Çığ",
+       "uz": "Qor ko`chkisi"
+      },
+      {
+       "tr": "Çöpçü",
+       "uz": "Tozalovchi"
+      },
+      {
+       "tr": "Damlacık",
+       "uz": "Tomchi"
+      },
+      {
+       "tr": "Dedikodu",
+       "uz": "G`iybat"
+      },
+      {
+       "tr": "Delikanlı",
+       "uz": "Yigit"
+      },
+      {
+       "tr": "Beslenmek",
+       "uz": "Oziqlanmoq"
+      },
+      {
+       "tr": "Deprem",
+       "uz": "Zilzila"
+      },
+      {
+       "tr": "Dikey",
+       "uz": "Vertikal"
+      },
+      {
+       "tr": "Doğa",
+       "uz": "Tabiat"
+      },
+      {
+       "tr": "Doğa olayı",
+       "uz": "Tabiat hodisasi"
+      },
+      {
+       "tr": "Dolu",
+       "uz": "To`la"
+      },
+      {
+       "tr": "Dünya",
+       "uz": "Dunyo"
+      },
+      {
+       "tr": "Elektrik enerjisi",
+       "uz": "Eletr energiyasi"
+      },
+      {
+       "tr": "Etraf",
+       "uz": "atrof"
+      },
+      {
+       "tr": "Fay",
+       "uz": "Yoriq, ayb"
+      },
+      {
+       "tr": "Fırın",
+       "uz": "Novvoyxona"
+      },
+      {
+       "tr": "Form",
+       "uz": "Shakl"
+      },
+      {
+       "tr": "Genişlik",
+       "uz": "Kenglik"
+      },
+      {
+       "tr": "Gişe memuru",
+       "uz": "Kassir"
+      },
+      {
+       "tr": "Gökkuşağı",
+       "uz": "Kamalak"
+      },
+      {
+       "tr": "Gökyüzü",
+       "uz": "Ko`k, osmon"
+      },
+      {
+       "tr": "Göl",
+       "uz": "Ko`l"
+      },
+      {
+       "tr": "Güneş",
+       "uz": "Quyosh"
+      },
+      {
+       "tr": "Günlük",
+       "uz": "Kundalik, kunlik"
+      },
+      {
+       "tr": "Hobi",
+       "uz": "Hobbi"
+      },
+      {
+       "tr": "Hokkabaz",
+       "uz": "Janglyor"
+      },
+      {
+       "tr": "Hortum",
+       "uz": "Tornado, uragan"
+      },
+      {
+       "tr": "Ilıman",
+       "uz": "Mo`tadil"
+      },
+      {
+       "tr": "İhtimal",
+       "uz": "Ehtimol, imkoniyat"
+      },
+      {
+       "tr": "İklim",
+       "uz": "İqlim"
+      },
+      {
+       "tr": "İskele",
+       "uz": "Port"
+      },
+      {
+       "tr": "Karanlık",
+       "uz": "Qorong`ulik"
+      },
+      {
+       "tr": "Kırık",
+       "uz": "Siniq, singan"
+      },
+      {
+       "tr": "Kilo",
+       "uz": "Kilogramm"
+      },
+      {
+       "tr": "Klasik",
+       "uz": "Klassik"
+      },
+      {
+       "tr": "Koleksiyon",
+       "uz": "Kolleksiya"
+      },
+      {
+       "tr": "Komedi",
+       "uz": "Komediya"
+      },
+      {
+       "tr": "Korku",
+       "uz": "Qo`rquv"
+      },
+      {
+       "tr": "Köşk",
+       "uz": "Ko`shk, saroy, qasr"
+      },
+      {
+       "tr": "Kum",
+       "uz": "Qum"
+      },
+      {
+       "tr": "Kum fırtınası",
+       "uz": "Qum bo`roni"
+      },
+      {
+       "tr": "Kurak",
+       "uz": "Quruq"
+      },
+      {
+       "tr": "kuraklık",
+       "uz": "Qurg`oqchilik"
+      },
+      {
+       "tr": "Manav",
+       "uz": "Sabzavot sotuvchi"
+      },
+      {
+       "tr": "Manzara",
+       "uz": "Manzara, ko`rinish"
+      },
+      {
+       "tr": "Meteorolojik",
+       "uz": "Metereologik"
+      },
+      {
+       "tr": "Müze",
+       "uz": "Muzey"
+      },
+      {
+       "tr": "Nehir",
+       "uz": "Daryo"
+      },
+      {
+       "tr": "Nem",
+       "uz": "Nam"
+      },
+      {
+       "tr": "Öğle yemeği",
+       "uz": "Tushlik"
+      },
+      {
+       "tr": "Özet",
+       "uz": "Qisqa bayoni"
+      },
+      {
+       "tr": "Polisiye",
+       "uz": "Detektiv"
+      },
+      {
+       "tr": "Postacı",
+       "uz": "Pochtachi"
+      },
+      {
+       "tr": "Romantik",
+       "uz": "Romantik"
+      },
+      {
+       "tr": "Rüzgar",
+       "uz": "Shamol"
+      },
+      {
+       "tr": "Sel",
+       "uz": "Sel, toshqin"
+      },
+      {
+       "tr": "Serin",
+       "uz": "Salqin"
+      },
+      {
+       "tr": "Sihirbaz",
+       "uz": "Sehrgar"
+      },
+      {
+       "tr": "Sopa",
+       "uz": "Tayoq"
+      },
+      {
+       "tr": "Şarkıcı",
+       "uz": "Qo`shiqchi"
+      },
+      {
+       "tr": "Tamirci",
+       "uz": "Mexanik, usta"
+      },
+      {
+       "tr": "Teslim",
+       "uz": "Yetkazib berish"
+      },
+      {
+       "tr": "Toz",
+       "uz": "Chang"
+      },
+      {
+       "tr": "Toz fırtınası",
+       "uz": "Chang bo`roni"
+      },
+      {
+       "tr": "Tropik yağmur",
+       "uz": "Tropik yomg`ir"
+      },
+      {
+       "tr": "Tsunami",
+       "uz": "Sunami"
+      },
+      {
+       "tr": "Tür",
+       "uz": "Tur, xil, type"
+      },
+      {
+       "tr": "Vazo",
+       "uz": "Vaza"
+      },
+      {
+       "tr": "Volkanik patlama",
+       "uz": "Vulqon otilishi"
+      },
+      {
+       "tr": "Yağmur",
+       "uz": "Yomg`ir"
+      },
+      {
+       "tr": "Yatay",
+       "uz": "Gorizontal"
+      },
+      {
+       "tr": "Yatılı okul",
+       "uz": "İnternat maktab"
+      },
+      {
+       "tr": "Yazlık kıyafet",
+       "uz": "Yozgi kiyim"
+      },
+      {
+       "tr": "Yer çekimi",
+       "uz": "Tortishish kuchi"
+      },
+      {
+       "tr": "Yer kabuğu",
+       "uz": "Yer qobig`i"
+      },
+      {
+       "tr": "Yıldırım",
+       "uz": "Chaqmoq"
+      },
+      {
+       "tr": "Yöresel",
+       "uz": "mintaqaviy"
+      },
+      {
+       "tr": "Ziyaret",
+       "uz": "Ziyorat, tashrif"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Batmak",
+       "uz": "Cho`kmoq, botmoq"
+      },
+      {
+       "tr": "Biriktirmek",
+       "uz": "Yig`moq, to`plamoq"
+      },
+      {
+       "tr": "Çarpmak",
+       "uz": "Urmoq, urib ketmoq"
+      },
+      {
+       "tr": "Dağıtmak",
+       "uz": "Tarqatmoq"
+      },
+      {
+       "tr": "Dizilmek",
+       "uz": "Qatorga turmoq"
+      },
+      {
+       "tr": "Donmak",
+       "uz": "Muzlamoq"
+      },
+      {
+       "tr": "Fırçalamak",
+       "uz": "Cho`tkalamoq"
+      },
+      {
+       "tr": "Horlamak",
+       "uz": "Xurrak otmoq"
+      },
+      {
+       "tr": "İmzalamak",
+       "uz": "İmzolamoq"
+      },
+      {
+       "tr": "İyileşmek",
+       "uz": "Yaxshilanmoq, sog’aymoq"
+      },
+      {
+       "tr": "Karşılaşmak",
+       "uz": "Duch kelmoq"
+      },
+      {
+       "tr": "Kaynamak",
+       "uz": "Qaynamoq"
+      },
+      {
+       "tr": "Küsmek",
+       "uz": "Arazlamoq, hafa bo’lmoq"
+      },
+      {
+       "tr": "Nişanlanmak",
+       "uz": "Unashtirilmoq"
+      },
+      {
+       "tr": "yapışmak",
+       "uz": "Yopishmoq, yopishib olmoq"
+      },
+      {
+       "tr": "Sallanmak",
+       "uz": "Silkitmoq, arg’imchoq uchmoq"
+      },
+      {
+       "tr": "Söndürmek",
+       "uz": "O`chirmoq"
+      },
+      {
+       "tr": "Sürtünmek",
+       "uz": "İshqalamoq"
+      },
+      {
+       "tr": "Yapışmak",
+       "uz": "Yopishmoq"
+      },
+      {
+       "tr": "Tartmak",
+       "uz": "Tortmoq"
+      },
+      {
+       "tr": "Taşımak",
+       "uz": "Ko`tarmoq, ko`tarib ketmoq"
+      },
+      {
+       "tr": "Yağmak",
+       "uz": "Yog`moq"
+      }
+     ]
+    }
+   ],
+   "total": 114
+  },
+  {
+   "id": "A2-u6",
+   "file": "Ünite 6. yeni kelimeler.docx",
+   "level": "A2",
+   "number": 6,
+   "title": "Ünite 6",
+   "subtitle": "A2",
+   "categories": [
+    {
+     "key": "isimler",
+     "name": "İsimler",
+     "nameUz": "Otlar",
+     "words": [
+      {
+       "tr": "Acele",
+       "uz": "Shoshilish"
+      },
+      {
+       "tr": "Açma",
+       "uz": "Ochish, yoqish"
+      },
+      {
+       "tr": "Alkollu",
+       "uz": "Spirtli, alkogolli"
+      },
+      {
+       "tr": "Anlam",
+       "uz": "Ma’no"
+      },
+      {
+       "tr": "Ayaküstü",
+       "uz": "Oyoqda"
+      },
+      {
+       "tr": "Ayran",
+       "uz": "Ayron"
+      },
+      {
+       "tr": "Bagaj",
+       "uz": "Bagaj"
+      },
+      {
+       "tr": "Bakıcı",
+       "uz": "Qarovchi, cиделка"
+      },
+      {
+       "tr": "Bedesten",
+       "uz": "Bozor, karvonsaroy"
+      },
+      {
+       "tr": "Briç",
+       "uz": "Karta o’yini"
+      },
+      {
+       "tr": "Çamaşır",
+       "uz": "Kir kiyimlar"
+      },
+      {
+       "tr": "Çatal (yiyecek)",
+       "uz": "Turk taomi"
+      },
+      {
+       "tr": "Çıkış",
+       "uz": "Chiqish"
+      },
+      {
+       "tr": "Dekoratif",
+       "uz": "Dekorativ"
+      },
+      {
+       "tr": "Deneyim",
+       "uz": "Tajriba"
+      },
+      {
+       "tr": "Desen",
+       "uz": "Naqsh"
+      },
+      {
+       "tr": "Dügün",
+       "uz": "To`y"
+      },
+      {
+       "tr": "Ekip",
+       "uz": "Jamoa"
+      },
+      {
+       "tr": "Ehliyet",
+       "uz": "Haydovchilik guvohnomasi"
+      },
+      {
+       "tr": "Geleneksel",
+       "uz": "An’anaviy"
+      },
+      {
+       "tr": "Gözleme",
+       "uz": "Kuzatuv"
+      },
+      {
+       "tr": "Gürültü",
+       "uz": "Shovqin"
+      },
+      {
+       "tr": "Güverte",
+       "uz": "Paluba"
+      },
+      {
+       "tr": "Han",
+       "uz": "Kichik mehmonxona"
+      },
+      {
+       "tr": "Hat",
+       "uz": "Chiziq"
+      },
+      {
+       "tr": "Hazır",
+       "uz": "Tayyor"
+      },
+      {
+       "tr": "Heyecan",
+       "uz": "Hayajon"
+      },
+      {
+       "tr": "İhtiyaç",
+       "uz": "Ehtiyoj"
+      },
+      {
+       "tr": "İlan",
+       "uz": "E’lon"
+      },
+      {
+       "tr": "İzin",
+       "uz": "İzn, ruxsat"
+      },
+      {
+       "tr": "Karar",
+       "uz": "Qaror"
+      },
+      {
+       "tr": "Katmer",
+       "uz": "Qatlam"
+      },
+      {
+       "tr": "Kestane",
+       "uz": "Kashtan"
+      },
+      {
+       "tr": "Kokoreç",
+       "uz": "Turk taomi"
+      },
+      {
+       "tr": "Konu",
+       "uz": "Mavzu"
+      },
+      {
+       "tr": "Köfte",
+       "uz": "Turk taomi, kotlet"
+      },
+      {
+       "tr": "Kumpir",
+       "uz": "Pishirilgan kartoshka, turk taomi"
+      },
+      {
+       "tr": "Lahmacun",
+       "uz": "Turk taomi"
+      },
+      {
+       "tr": "Lazım",
+       "uz": "Lozim"
+      },
+      {
+       "tr": "Martı",
+       "uz": "Chayka"
+      },
+      {
+       "tr": "Mutlaka",
+       "uz": "Albatta"
+      },
+      {
+       "tr": "Nakit",
+       "uz": "Naqd"
+      },
+      {
+       "tr": "Öncelik",
+       "uz": "Avvalo, ustuvorlik"
+      },
+      {
+       "tr": "Öneri",
+       "uz": "Tavsiya, taklif"
+      },
+      {
+       "tr": "Pide",
+       "uz": "Turk taomi"
+      },
+      {
+       "tr": "Poğaça",
+       "uz": "Bulochka"
+      },
+      {
+       "tr": "Rahat",
+       "uz": "Qulay"
+      },
+      {
+       "tr": "Rakip",
+       "uz": "Raqib"
+      },
+      {
+       "tr": "Refah",
+       "uz": "Farovonlik"
+      },
+      {
+       "tr": "Sanatçı",
+       "uz": "Rassom"
+      },
+      {
+       "tr": "Sandal",
+       "uz": "Qayiq"
+      },
+      {
+       "tr": "Seyir",
+       "uz": "Sayr"
+      },
+      {
+       "tr": "Sıkışık",
+       "uz": "Tor"
+      },
+      {
+       "tr": "Sınır",
+       "uz": "Chegara"
+      },
+      {
+       "tr": "Simit",
+       "uz": "Teshkulcha"
+      },
+      {
+       "tr": "Siyasetçi",
+       "uz": "Siyosatchi"
+      },
+      {
+       "tr": "sözleşme",
+       "uz": "kelishuv"
+      },
+      {
+       "tr": "Şişirmek",
+       "uz": "İshirmoq, shoshib ish qilmoq"
+      },
+      {
+       "tr": "Takip etmek",
+       "uz": "Taqib qilish, ergashmoq"
+      },
+      {
+       "tr": "Uzatmak",
+       "uz": "Cho`zmoq, uzaytirmoq"
+      },
+      {
+       "tr": "Ütülemek",
+       "uz": "Dazmol qilmoq"
+      },
+      {
+       "tr": "Vedalaşmak",
+       "uz": "Hayrlashmoq"
+      },
+      {
+       "tr": "Yatıştırmak",
+       "uz": "Tinchlantirish"
+      },
+      {
+       "tr": "Yenmek",
+       "uz": "Yeyilmoq, yemirilmoq"
+      },
+      {
+       "tr": "Yetişmek",
+       "uz": "Ulgurmoq, o`smoq"
+      },
+      {
+       "tr": "zannetemek",
+       "uz": "Tahmin qilmoq, deb o`ylamoq"
+      },
+      {
+       "tr": "Süre",
+       "uz": "Mudddat, davomiylik"
+      },
+      {
+       "tr": "Şekerleme",
+       "uz": "Qandolatchilik"
+      },
+      {
+       "tr": "Şiddet",
+       "uz": "Zo`ravonlik, kuch"
+      },
+      {
+       "tr": "Şirket",
+       "uz": "Kompaniya"
+      },
+      {
+       "tr": "Tavla",
+       "uz": "Narda"
+      },
+      {
+       "tr": "Tavsiye",
+       "uz": "Tavsiya"
+      },
+      {
+       "tr": "Tecrübe",
+       "uz": "Tajriba"
+      },
+      {
+       "tr": "Terlik",
+       "uz": "Tapochka, shippak"
+      },
+      {
+       "tr": "Tost",
+       "uz": "Toster noni"
+      },
+      {
+       "tr": "Ud",
+       "uz": "Ud (cholg’u)"
+      },
+      {
+       "tr": "Ünlü",
+       "uz": "Mashxur"
+      },
+      {
+       "tr": "Vakıf",
+       "uz": "Fond, asos"
+      },
+      {
+       "tr": "Vatandaş",
+       "uz": "Fuqaro"
+      },
+      {
+       "tr": "Vezne",
+       "uz": "Kassir"
+      },
+      {
+       "tr": "Yalan",
+       "uz": "Yolg`on"
+      },
+      {
+       "tr": "Yaygın",
+       "uz": "Keng tarqalgan"
+      },
+      {
+       "tr": "Yoğun",
+       "uz": "Zich, qalin"
+      }
+     ]
+    },
+    {
+     "key": "fiiller",
+     "name": "Fiiller",
+     "nameUz": "Feʼllar",
+     "words": [
+      {
+       "tr": "Ara vermek",
+       "uz": "Tanaffus qilmoq"
+      },
+      {
+       "tr": "Batmak",
+       "uz": "Cho`kmoq"
+      },
+      {
+       "tr": "Bilgi vermek",
+       "uz": "Xabar, ma’lumot bermoq"
+      },
+      {
+       "tr": "Bitirmek",
+       "uz": "Tugatmoq"
+      },
+      {
+       "tr": "Borç vermek",
+       "uz": "Qarz bermoq"
+      },
+      {
+       "tr": "Burs vermek",
+       "uz": "Stipendiya, grant bermoq"
+      },
+      {
+       "tr": "Çekinmek",
+       "uz": "İkkilanish, surmoq"
+      },
+      {
+       "tr": "Çözmek",
+       "uz": "Hal qilmoq"
+      },
+      {
+       "tr": "Dayanmak",
+       "uz": "Chidamoq"
+      },
+      {
+       "tr": "Denemek",
+       "uz": "Sinab ko`rmoq"
+      },
+      {
+       "tr": "Destek vermek",
+       "uz": "Qo`llab-quvvatlamoq"
+      },
+      {
+       "tr": "Devam etmek",
+       "uz": "Davom etmoq"
+      },
+      {
+       "tr": "Dikiş dikmek",
+       "uz": "Tikmoq"
+      },
+      {
+       "tr": "Dikkat etmek",
+       "uz": "E’tibor bermoq"
+      },
+      {
+       "tr": "Doymak",
+       "uz": "To`ymoq"
+      },
+      {
+       "tr": "Farkında olmak",
+       "uz": "Bilmoq, xabardor bo`lmoq"
+      },
+      {
+       "tr": "Gecikmek",
+       "uz": "Kech qolmoq"
+      },
+      {
+       "tr": "Gitar çalmak",
+       "uz": "Gitara chalmoq"
+      },
+      {
+       "tr": "Giyinmek",
+       "uz": "Kiyinmoq"
+      },
+      {
+       "tr": "Göz kırpmak",
+       "uz": "Ko’z ochib yummoq"
+      },
+      {
+       "tr": "Güvenmek",
+       "uz": "İshonmoq"
+      },
+      {
+       "tr": "Hoş görmek",
+       "uz": "Yoqtirmoq"
+      },
+      {
+       "tr": "Hüküm vermek",
+       "uz": "Hukm chiqarmoq"
+      },
+      {
+       "tr": "Islık çalmak",
+       "uz": "Hushtak chalmoq"
+      },
+      {
+       "tr": "İlgilenmek",
+       "uz": "Qiziqmoq"
+      },
+      {
+       "tr": "İnanç",
+       "uz": "E’tiqod"
+      },
+      {
+       "tr": "İzlemek",
+       "uz": "Tomosha qilmoq"
+      },
+      {
+       "tr": "Kaybolmak",
+       "uz": "Yo`qolmoq"
+      },
+      {
+       "tr": "Kaymak",
+       "uz": "Eshmoq, sirpanib ketmoq"
+      },
+      {
+       "tr": "Kımıldamak",
+       "uz": "Qimirlamoq"
+      },
+      {
+       "tr": "Közlemek",
+       "uz": "Dimlab pishirmoq"
+      },
+      {
+       "tr": "Kredi almak",
+       "uz": "Kredit olmoq"
+      },
+      {
+       "tr": "Kutlama",
+       "uz": "Tabrik"
+      },
+      {
+       "tr": "Mola vermek",
+       "uz": "Tanaffus qilmoq"
+      },
+      {
+       "tr": "Neden olmak",
+       "uz": "Sabab bo`lmoq"
+      },
+      {
+       "tr": "Para bozdurmak",
+       "uz": "Pul almashtirmoq"
+      },
+      {
+       "tr": "Problem çıkarmak",
+       "uz": "Muammo chiqarmoq"
+      },
+      {
+       "tr": "Sığmak",
+       "uz": "Mos kelmoq"
+      },
+      {
+       "tr": "Sıkıntı çekmek",
+       "uz": "Qiynalmoq, siqilmoq"
+      },
+      {
+       "tr": "Soluklamak",
+       "uz": "Nafas olmoq, so`lish"
+      }
+     ]
+    }
+   ],
+   "total": 123
+  }
+ ]
+}
