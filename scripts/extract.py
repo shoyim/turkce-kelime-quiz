@@ -56,8 +56,10 @@ def meta(fname: str):
 def parse(path: str):
     doc = docx.Document(path)
     entries = []
-    cur = None
+    # Her sütun çifti bağımsız bir alfabetik listedir; kategori başlıkları
+    # yalnızca kendi sütunları içinde geçerlidir — bu yüzden her sütunda sıfırla.
     for cp in [(0, 1), (2, 3)]:  # iki sütun çifti: önce sol, sonra sağ
+        cur = None
         for row in doc.tables[0].rows:
             cells = row.cells
             if len(cells) <= cp[1]:
