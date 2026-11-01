@@ -7,14 +7,16 @@ import {
   Clock,
   Hash,
   Infinity as InfinityIcon,
+  Keyboard,
   Languages,
   Layers,
   ListChecks,
+  ListTodo,
   Play,
   Sparkles,
 } from "lucide-react";
 import { units, collectWords, totalWordCount } from "@/lib/vocab";
-import type { Direction, QuizSettings } from "@/lib/types";
+import type { Direction, QuizMode, QuizSettings } from "@/lib/types";
 import { cn } from "@/lib/utils";
 import ThemeToggle from "./ThemeToggle";
 
@@ -37,6 +39,7 @@ export default function SetupScreen({
   const [count, setCount] = useState(20);
   const [seconds, setSeconds] = useState(15);
   const [direction, setDirection] = useState<Direction>("tr2uz");
+  const [mode, setMode] = useState<QuizMode>("choice");
 
   // Seçilen ünitelerdeki mevcut kategoriler
   const availableCats = useMemo(() => {
@@ -199,7 +202,51 @@ export default function SetupScreen({
         </Section>
       )}
 
-      {/* 3 · Soru sayısı */}
+      {/* 3 · Cevap şekli */}
+      <Section
+        icon={<ListTodo className="h-5 w-5" />}
+        title="Cevap şekli"
+        subtitle="Nasıl cevap vermek istersin?"
+      >
+        <div className="grid gap-2 sm:grid-cols-2">
+          <button
+            onClick={() => setMode("choice")}
+            className={cn(
+              "flex items-start gap-3 rounded-xl border p-4 text-left transition",
+              mode === "choice"
+                ? "border-brand-500 bg-brand-50 ring-1 ring-brand-500 dark:bg-brand-900/20"
+                : "border-slate-200 bg-white hover:border-slate-300 dark:border-slate-700 dark:bg-slate-900",
+            )}
+          >
+            <ListChecks className="mt-0.5 h-5 w-5 shrink-0 text-brand-600" />
+            <span>
+              <span className="block text-sm font-bold">Çoktan seçmeli</span>
+              <span className="text-xs text-slate-400">
+                4 şıktan doğru olanı işaretle
+              </span>
+            </span>
+          </button>
+          <button
+            onClick={() => setMode("writing")}
+            className={cn(
+              "flex items-start gap-3 rounded-xl border p-4 text-left transition",
+              mode === "writing"
+                ? "border-brand-500 bg-brand-50 ring-1 ring-brand-500 dark:bg-brand-900/20"
+                : "border-slate-200 bg-white hover:border-slate-300 dark:border-slate-700 dark:bg-slate-900",
+            )}
+          >
+            <Keyboard className="mt-0.5 h-5 w-5 shrink-0 text-brand-600" />
+            <span>
+              <span className="block text-sm font-bold">Yazarak</span>
+              <span className="text-xs text-slate-400">
+                Cevabı klavyeden yaz · hatalar düzeltilir
+              </span>
+            </span>
+          </button>
+        </div>
+      </Section>
+
+      {/* 4 · Soru sayısı */}
       <Section
         icon={<Hash className="h-5 w-5" />}
         title="Soru sayısı"
@@ -238,7 +285,7 @@ export default function SetupScreen({
         </div>
       </Section>
 
-      {/* 4 · Süre */}
+      {/* 5 · Süre */}
       <Section
         icon={<Clock className="h-5 w-5" />}
         title="Soru başına süre"
@@ -259,7 +306,7 @@ export default function SetupScreen({
         </div>
       </Section>
 
-      {/* 5 · Yön */}
+      {/* 6 · Yön */}
       <Section
         icon={<Languages className="h-5 w-5" />}
         title="Soru yönü"
@@ -309,6 +356,7 @@ export default function SetupScreen({
                 count: effectiveCount,
                 seconds,
                 direction,
+                mode,
               })
             }
             className="inline-flex items-center gap-2 rounded-xl bg-brand-600 px-6 py-3 font-bold text-white shadow-lg shadow-brand-600/25 transition hover:bg-brand-700 disabled:cursor-not-allowed disabled:opacity-40"

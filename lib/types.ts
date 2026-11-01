@@ -26,6 +26,7 @@ export interface VocabData {
 }
 
 export type Direction = "tr2uz" | "uz2tr" | "mixed";
+export type QuizMode = "choice" | "writing";
 
 export interface QuizSettings {
   unitIds: string[];
@@ -33,6 +34,7 @@ export interface QuizSettings {
   count: number; // kaç soru
   seconds: number; // 0 = süresiz
   direction: Direction;
+  mode: QuizMode; // çoktan seçmeli / yazarak
 }
 
 export interface Question {
@@ -45,7 +47,8 @@ export interface Question {
 }
 
 export interface Answered {
-  selected: string | null; // null = cevapsız / süre doldu
+  selected: string | null; // seçilen şık / yazılan metin · null = cevapsız
   correct: boolean;
   timedOut: boolean;
+  close?: boolean; // yazarak modunda küçük hatayla doğru
 }

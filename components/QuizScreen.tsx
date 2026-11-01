@@ -10,20 +10,25 @@ import {
   TimerOff,
   X,
 } from "lucide-react";
-import type { Answered, Question } from "@/lib/types";
+import type { Answered, Question, QuizMode } from "@/lib/types";
 import { cn } from "@/lib/utils";
+import WritingAnswer, { type WriteResult } from "./WritingAnswer";
 
 const OPTION_KEYS = ["A", "B", "C", "D"];
-const ADVANCE_DELAY = 850; // ms — cevaptan sonra otomatik geçiş
+const ADVANCE_DELAY = 850; // ms — çoktan seçmelide otomatik geçiş
+const WRITE_OK_DELAY = 1200; // yazarak: doğru cevaptan sonra
+const WRITE_FIX_DELAY = 2600; // yazarak: yanlış/eksikte okumak için daha uzun
 
 export default function QuizScreen({
   questions,
   seconds,
+  mode,
   onFinish,
   onExit,
 }: {
   questions: Question[];
   seconds: number; // 0 = süresiz
+  mode: QuizMode;
   onFinish: (answers: Answered[]) => void;
   onExit: () => void;
 }) {
@@ -59,21 +64,34 @@ export default function QuizScreen({
   }, [current, isLast, finish, goTo]);
 
   const commit = useCallback(
-    (selected: string | null, timedOut: boolean) => {
+    (ans: Answered, delay = ADVANCE_DELAY) => {
       setAnswers((prev) => {
         if (prev[current]) return prev; // zaten cevaplı
         const next = [...prev];
-        next[current] = {
-          selected,
-          correct: selected === q.answer,
-          timedOut,
-        };
+        next[current] = ans;
         return next;
       });
       if (advanceRef.current) clearTimeout(advanceRef.current);
-      advanceRef.current = setTimeout(advance, ADVANCE_DELAY);
+      advanceRef.current = setTimeout(advance, delay);
     },
-    [current, q, advance],
+    [current, advance],
+  );
+
+  // Çoktan seçmeli: şık seç
+  const pickOption = useCallback(
+    (opt: string) =>
+      commit({ selected: opt, correct: opt === q.answer, timedOut: false }),
+    [commit, q],
+  );
+
+  // Yazarak: cevabı değerlendir
+  const submitWriting = useCallback(
+    (r: WriteResult) =>
+      commit(
+        { selected: r.selected, correct: r.correct, timedOut: false, close: r.close },
+        r.correct && !r.close ? WRITE_OK_DELAY : WRITE_FIX_DELAY,
+      ),
+    [commit],
   );
 
   // Süre sayacı — sadece cevaplanmamış soruda ve süre açıksa çalışır
@@ -86,7 +104,11 @@ export default function QuizScreen({
       if (left <= 0) {
         clearInterval(id);
         setTimeLeft(0);
-        commit(null, true); // süre doldu → cevapsız işaretle, geç
+        // süre doldu → cevapsız işaretle, doğruyu göster, geç
+        commit(
+          { selected: null, correct: false, timedOut: true },
+          mode === "writing" ? WRITE_FIX_DELAY : ADVANCE_DELAY,
+        );
       } else {
         setTimeLeft(left);
       }
@@ -95,21 +117,23 @@ export default function QuizScreen({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [current, seconds, answered]);
 
-  // Klavye: 1–4 / A–D şık seç, ok tuşları gezinme
+  // Klavye: ok tuşları gezinme · çoktan seçmelide 1–4 / A–D şık seç
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
+      const tag = (e.target as HTMLElement | null)?.tagName;
+      if (tag === "INPUT" || tag === "TEXTAREA") return; // yazarken karışma
       if (e.key === "ArrowRight") goTo(current + 1);
       else if (e.key === "ArrowLeft") goTo(current - 1);
-      else if (!answered) {
+      else if (mode === "choice" && !answered) {
         const idx = "1234".indexOf(e.key);
         const letter = ["a", "b", "c", "d"].indexOf(e.key.toLowerCase());
         const pick = idx >= 0 ? idx : letter;
-        if (pick >= 0 && pick < q.options.length) commit(q.options[pick], false);
+        if (pick >= 0 && pick < q.options.length) pickOption(q.options[pick]);
       }
     }
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [current, answered, q, commit, goTo]);
+  }, [current, answered, q, pickOption, goTo, mode]);
 
   useEffect(() => {
     return () => {
@@ -206,7 +230,15 @@ export default function QuizScreen({
           </h2>
         </div>
 
-        {/* ŞIKLAR */}
+        {/* CEVAP ALANI */}
+        {mode === "writing" ? (
+          <WritingAnswer
+            question={q}
+            answered={answered}
+            onSubmit={submitWriting}
+            onAdvance={advance}
+          />
+        ) : (
         <div className="grid gap-3">
           {q.options.map((opt, i) => {
             const isSelected = answered?.selected === opt;
@@ -224,7 +256,7 @@ export default function QuizScreen({
               <button
                 key={opt + i}
                 disabled={reveal}
-                onClick={() => commit(opt, false)}
+                onClick={() => pickOption(opt)}
                 className={cn(
                   "group flex items-center gap-3 rounded-xl border p-4 text-left transition",
                   state === "idle" &&
@@ -259,9 +291,10 @@ export default function QuizScreen({
             );
           })}
         </div>
+        )}
 
-        {/* Zamanında cevaplanmadı bilgisi */}
-        {answered?.timedOut && (
+        {/* Zamanında cevaplanmadı bilgisi (çoktan seçmeli) */}
+        {mode === "choice" && answered?.timedOut && (
           <p className="mt-4 text-center text-sm font-medium text-brand-600">
             Süre doldu — doğru cevap yukarıda işaretli.
           </p>

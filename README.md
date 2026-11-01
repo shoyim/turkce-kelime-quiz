@@ -8,8 +8,11 @@ A1–A2 seviyesi Türkçe kelimelerini **ünite ünite**, rastgele ve **süreli*
 
 - 📚 **Bölüm bölüm** — Tüm kelimeler ünitelere ve türlere (İsimler, Fiiller, Kalıp İfadeler) ayrılmıştır.
 - 🎲 **Rastgele sorular** — Kaç soru çözeceğini sen seçersin; havuzdan rastgele seçilir.
+- ✏️ **İki cevap şekli:**
+  - **Çoktan seçmeli** — 4 şıktan doğru olanı işaretle.
+  - **Yazarak** — cevabı klavyeden yaz. Eksik/yanlış harf varsa **doğru yazım harf harf vurgulanarak** gösterilir; tamamen yanlışsa doğru cevap gösterilir. Küçük yazım hataları (eksik harf, aksan) hoş görülür.
 - ⏱️ **Süreli sorular** — Soru başına süre (5–30 sn veya süresiz) belirlenir; **süre bitince otomatik sonraki soruya geçer.**
-- ✅ **İşaretleyince otomatik geçiş** — Bir şıkkı işaretlediğinde doğru/yanlış gösterilir ve otomatik olarak sonraki soruya geçer.
+- ✅ **İşaretleyince otomatik geçiş** — Cevapladığında doğru/yanlış gösterilir ve otomatik olarak sonraki soruya geçer.
 - ⬅️➡️ **Üstte gezinme** — Üst çubuktaki oklarla önceki/sonraki soruya geçebilir veya geri dönebilirsin.
 - 🔁 **Soru yönü** — Türkçe → Özbekçe, Özbekçe → Türkçe veya karışık.
 - 📊 **Sonuç ekranı** — Puan, doğru/yanlış/süre doldu istatistikleri ve tüm cevapların incelemesi.
@@ -46,12 +49,14 @@ app/
   layout.tsx        · kök layout, tema
   page.tsx          · ekran yönlendirici (setup → quiz → result)
 components/
-  SetupScreen.tsx   · ünite / tür / soru sayısı / süre / yön ayarları
+  SetupScreen.tsx   · ünite / tür / cevap şekli / soru sayısı / süre / yön
   QuizScreen.tsx    · soru kartı, süre halkası, üst gezinme, otomatik geçiş
+  WritingAnswer.tsx · yazarak cevap + harf harf düzeltme gösterimi
   ResultScreen.tsx  · puan, istatistik, cevap incelemesi
   ThemeToggle.tsx   · açık/koyu tema
 lib/
   vocab.ts          · kelime havuzu + test üretimi
+  match.ts          · yazarak cevap eşleştirme + düzeltme (Levenshtein)
   types.ts          · tip tanımları
   utils.ts          · yardımcılar
 data/

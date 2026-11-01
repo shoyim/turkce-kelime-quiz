@@ -41,6 +41,7 @@ export default function Page() {
         <QuizScreen
           questions={questions}
           seconds={settings.seconds}
+          mode={settings.mode}
           onFinish={finishQuiz}
           onExit={() => setView("setup")}
         />
