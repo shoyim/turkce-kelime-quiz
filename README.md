@@ -1,6 +1,8 @@
 # 🇹🇷 Türkçe Kelime Quiz · Türkçe–Özbekçe
 
-A1–A2 seviyesi Türkçe kelimelerini **ünite ünite**, rastgele ve **süreli** testlerle öğrenmek için yapılmış bir Next.js uygulaması. Kelimeler Word (`.docx`) dosyalarından çıkarılmıştır — toplam **1296 kelime, 11 ünite**.
+### 🔗 Canlı: **[zirvet.vercel.app](https://zirvet.vercel.app/)**
+
+A1–A2 seviyesi Türkçe kelimelerini **ünite ünite**, rastgele ve **süreli** testlerle öğrenmek için yapılmış bir Next.js uygulaması. Kelimeler Word (`.docx`) dosyalarından çıkarılmıştır — toplam **1487 kelime, 12 ünite**.
 
 > A1–A2 darajali turkcha so'zlarni **bo'lim-bo'lim**, tasodifiy va **vaqt belgilangan** testlar bilan o'rganish uchun Next.js ilovasi.
 
